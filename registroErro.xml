@@ -1,0 +1,43 @@
+<publication-venues>
+   <from>ISI Web of Knowledge</from>
+   <year>2015</year>
+   <pub-venue>
+      <id>0</id>
+      <idClass>0</idClass>
+      <issn>0932433X</issn>
+      <title>SCHMERZ</title>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>GERMAN</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>CLINICAL NEUROLOGY</subject>
+      <impact-factor>0.894</impact-factor>
+      <impact-factor-5-years>1.063</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>1</id>
+      <idClass>0</idClass>
+      <issn>932-433X</issn>
+      <title>SCHMERZ</title>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>GERMAN</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>CLINICAL NEUROLOGY</subject>
+      <impact-factor>0.894</impact-factor>
+      <impact-factor-5-years>1.063</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>2</id>
+      <idClass>0</idClass>
+      <issn>0932-33X</issn>
+      <title>SCHMERZ</title>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>GERMAN</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>CLINICAL NEUROLOGY</subject>
+      <impact-factor>0.894</impact-factor>
+      <impact-factor-5-years>1.063</impact-factor-5-years>
+   </pub-venue>
+</publication-venues>

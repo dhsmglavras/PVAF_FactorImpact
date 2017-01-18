@@ -1,0 +1,4985 @@
+<publication-venues>
+   <from>ISI Web of Knowledge</from>
+   <year>2015</year>
+   <pub-venue>
+      <id>0</id>
+      <idClass>0</idClass>
+      <issn>1839-2571</issn>
+      <title>Acoustics Australia</title>
+      <title-abrev>Acoust. Aust.</title-abrev>
+      <title-abrev>ACOUST AUST</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <impact-factor>0.625</impact-factor>
+      <impact-factor-5-years>0.588</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>1</id>
+      <idClass>0</idClass>
+      <issn>1063-7710</issn>
+      <title>ACOUSTICAL PHYSICS</title>
+      <title-abrev>Acoust. Phys.</title-abrev>
+      <publisher>MAIK NAUKA/INTERPERIODICA/SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <impact-factor>0.699</impact-factor>
+      <impact-factor-5-years>0.644</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>2</id>
+      <idClass>0</idClass>
+      <issn>1610-1928</issn>
+      <title>ACTA ACUSTICA UNITED WITH ACUSTICA</title>
+      <title-abrev>Acta Acust. United Acust.</title-abrev>
+      <title-abrev>ACTA ACUST UNITED AC</title-abrev>
+      <publisher>S HIRZEL VERLAG</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>ACOUSTICS</subject>
+      <impact-factor>0.897</impact-factor>
+      <impact-factor-5-years>0.926</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>3</id>
+      <idClass>0</idClass>
+      <issn>0003-682X</issn>
+      <title>APPLIED ACOUSTICS</title>
+      <title-abrev>Appl. Acoust.</title-abrev>
+      <title-abrev>APPL ACOUST</title-abrev>
+      <publisher>ELSEVIER SCI LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>ACOUSTICS</subject>
+      <impact-factor>1.462</impact-factor>
+      <impact-factor-5-years>1.549</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>4</id>
+      <idClass>0</idClass>
+      <issn>0137-5075</issn>
+      <title>Archives of Acoustics</title>
+      <title-abrev>Arch. Acoust.</title-abrev>
+      <title-abrev>ARCH ACOUST</title-abrev>
+      <publisher>POLSKA AKAD NAUK, POLISH ACAD SCIENCES, INST FUNDAMENTAL TE</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <impact-factor>0.661</impact-factor>
+      <impact-factor-5-years>0.647</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>5</id>
+      <idClass>0</idClass>
+      <issn>1687-4722</issn>
+      <title>EURASIP Journal on Audio Speech and Music Processing</title>
+      <title-abrev>EURASIP J. Audio Speech Music Process.</title-abrev>
+      <title-abrev>EURASIP J AUDIO SPEE</title-abrev>
+      <publisher>SPRINGER INTERNATIONAL PUBLISHING AG</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>ENGINEERING, ELECTRICAL `AND` ELECTRONIC</subject>
+      <impact-factor>0.797</impact-factor>
+      <impact-factor-5-years>0.826</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>6</id>
+      <idClass>0</idClass>
+      <issn>1558-7916</issn>
+      <title>IEEE Transactions on Audio Speech and Language Processing</title>
+      <title-abrev>IEEE Trans. Audio Speech Lang. Process.</title-abrev>
+      <title-abrev>IEEE T AUDIO SPEECH</title-abrev>
+      <publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>ENGINEERING, ELECTRICAL `AND` ELECTRONIC</subject>
+      <impact-factor>1.877</impact-factor>
+      <impact-factor-5-years>2.201</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>7</id>
+      <idClass>0</idClass>
+      <issn>0885-3010</issn>
+      <title>IEEE TRANSACTIONS ON ULTRASONICS FERROELECTRICS AND FREQUENCY CONTROL</title>
+      <title-abrev>IEEE Trans. Ultrason. Ferroelectr. Freq. Control</title-abrev>
+      <title-abrev>IEEE T ULTRASON FERR</title-abrev>
+      <publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>ENGINEERING, ELECTRICAL `AND` ELECTRONIC</subject>
+      <impact-factor>2.287</impact-factor>
+      <impact-factor-5-years>2.115</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>8</id>
+      <idClass>0</idClass>
+      <issn>2329-9290</issn>
+      <title>IEEE-ACM Transactions on Audio Speech and Language Processing</title>
+      <title-abrev>IEEE-ACM Trans. Audio Speech Lang.</title-abrev>
+      <title-abrev>IEEE-ACM T AUDIO SPE</title-abrev>
+      <publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>ENGINEERING, ELECTRICAL `AND` ELECTRONIC</subject>
+      <impact-factor>1.225</impact-factor>
+      <impact-factor-5-years>1.225</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>9</id>
+      <idClass>0</idClass>
+      <issn>1027-5851</issn>
+      <title>International Journal of Acoustics and Vibration</title>
+      <title-abrev>Int. J. Acoust. Vib.</title-abrev>
+      <title-abrev>INT J ACOUST VIB</title-abrev>
+      <publisher>INT INST ACOUSTICS `AND` VIBRATION</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>ENGINEERING, MECHANICAL</subject>
+      <subject>MECHANICS</subject>
+      <impact-factor>0.283</impact-factor>
+      <impact-factor-5-years>0.410</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>10</id>
+      <idClass>0</idClass>
+      <issn>1475-472X</issn>
+      <title>International Journal of Aeroacoustics</title>
+      <title-abrev>Int. J. Aeroacoust.</title-abrev>
+      <title-abrev>INT J AEROACOUST</title-abrev>
+      <publisher>SAGE PUBLICATIONS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>ENGINEERING, AEROSPACE</subject>
+      <subject>MECHANICS</subject>
+      <impact-factor>0.414</impact-factor>
+      <impact-factor-5-years>0.772</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>11</id>
+      <idClass>0</idClass>
+      <issn>0001-4966</issn>
+      <title>JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA</title>
+      <title-abrev>J. Acoust. Soc. Am.</title-abrev>
+      <title-abrev>J ACOUST SOC AM</title-abrev>
+      <publisher>ACOUSTICAL SOC AMER AMER INST PHYSICS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>AUDIOLOGY `AND` SPEECH-LANGUAGE PATHOLOGY</subject>
+      <impact-factor>1.572</impact-factor>
+      <impact-factor-5-years>1.738</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>12</id>
+      <idClass>0</idClass>
+      <issn>1549-4950</issn>
+      <title>JOURNAL OF THE AUDIO ENGINEERING SOCIETY</title>
+      <title-abrev>J. Audio Eng. Soc.</title-abrev>
+      <title-abrev>J AUDIO ENG SOC</title-abrev>
+      <publisher>AUDIO ENGINEERING SOC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>ENGINEERING, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.856</impact-factor>
+      <impact-factor-5-years>0.853</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>13</id>
+      <idClass>0</idClass>
+      <issn>0091-2751</issn>
+      <title>JOURNAL OF CLINICAL ULTRASOUND</title>
+      <title-abrev>J. Clin. Ultrasound</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>RADIOLOGY, NUCLEAR MEDICINE `AND` MEDICAL IMAGING</subject>
+      <impact-factor>0.862</impact-factor>
+      <impact-factor-5-years>0.888</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>14</id>
+      <idClass>0</idClass>
+      <issn>0218-396X</issn>
+      <title>JOURNAL OF COMPUTATIONAL ACOUSTICS</title>
+      <title-abrev>J. Comput. Acoust.</title-abrev>
+      <title-abrev>J COMPUT ACOUST</title-abrev>
+      <publisher>WORLD SCIENTIFIC PUBL CO PTE LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>MATHEMATICS, INTERDISCIPLINARY APPLICATIONS</subject>
+      <impact-factor>0.542</impact-factor>
+      <impact-factor-5-years>0.686</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>15</id>
+      <idClass>0</idClass>
+      <title>JOURNAL OF LOW FREQUENCY NOISE VIBRATION AND ACTIVE CONTROL</title>
+      <title-abrev>J. Low Freq. Noise Vib. Act. Control</title-abrev>
+      <title-abrev>J LOW FREQ NOISE V A</title-abrev>
+      <publisher>SAGE PUBLICATIONS LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <impact-factor>0.778</impact-factor>
+      <impact-factor-5-years>0.623</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>16</id>
+      <idClass>0</idClass>
+      <issn>0022-460X</issn>
+      <title>JOURNAL OF SOUND AND VIBRATION</title>
+      <title-abrev>J. Sound Vibr.</title-abrev>
+      <title-abrev>J SOUND VIB</title-abrev>
+      <publisher>ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>ENGINEERING, MECHANICAL</subject>
+      <subject>MECHANICS</subject>
+      <impact-factor>2.107</impact-factor>
+      <impact-factor-5-years>2.300</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>17</id>
+      <idClass>0</idClass>
+      <issn>0278-4297</issn>
+      <title>JOURNAL OF ULTRASOUND IN MEDICINE</title>
+      <title-abrev>J. Ultrasound Med.</title-abrev>
+      <title-abrev>J ULTRAS MED</title-abrev>
+      <publisher>AMER INST ULTRASOUND MEDICINE</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>RADIOLOGY, NUCLEAR MEDICINE `AND` MEDICAL IMAGING</subject>
+      <impact-factor>1.544</impact-factor>
+      <impact-factor-5-years>1.803</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>18</id>
+      <idClass>0</idClass>
+      <issn>1048-9002</issn>
+      <title>JOURNAL OF VIBRATION AND ACOUSTICS-TRANSACTIONS OF THE ASME</title>
+      <title-abrev>J. Vib. Acoust.-Trans. ASME</title-abrev>
+      <title-abrev>J VIB ACOUST</title-abrev>
+      <publisher>ASME</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>ENGINEERING, MECHANICAL</subject>
+      <subject>MECHANICS</subject>
+      <impact-factor>1.169</impact-factor>
+      <impact-factor-5-years>1.430</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>19</id>
+      <idClass>0</idClass>
+      <issn>1077-5463</issn>
+      <title>JOURNAL OF VIBRATION AND CONTROL</title>
+      <title-abrev>J. Vib. Control</title-abrev>
+      <publisher>SAGE PUBLICATIONS LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>ENGINEERING, MECHANICAL</subject>
+      <subject>MECHANICS</subject>
+      <impact-factor>1.643</impact-factor>
+      <impact-factor-5-years>1.743</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>20</id>
+      <idClass>0</idClass>
+      <issn>0736-2501</issn>
+      <title>NOISE CONTROL ENGINEERING JOURNAL</title>
+      <title-abrev>Noise Control Eng. J.</title-abrev>
+      <title-abrev>NOISE CONTROL ENG J</title-abrev>
+      <publisher>INST NOISE CONTROL ENGINEERING</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>ENGINEERING, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.313</impact-factor>
+      <impact-factor-5-years>0.505</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>21</id>
+      <idClass>0</idClass>
+      <issn>0031-8388</issn>
+      <title>PHONETICA</title>
+      <publisher>KARGER</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>ACOUSTICS</subject>
+      <subject>AUDIOLOGY `AND` SPEECH-LANGUAGE PATHOLOGY</subject>
+      <impact-factor>0.458</impact-factor>
+      <impact-factor-5-years>0.900</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>22</id>
+      <idClass>0</idClass>
+      <issn>1070-9622</issn>
+      <title>SHOCK AND VIBRATION</title>
+      <title-abrev>Shock Vib.</title-abrev>
+      <title-abrev>SHOCK VIB</title-abrev>
+      <publisher>HINDAWI PUBLISHING CORP</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>ENGINEERING, MECHANICAL</subject>
+      <subject>MECHANICS</subject>
+      <impact-factor>0.880</impact-factor>
+      <impact-factor-5-years>0.850</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>23</id>
+      <idClass>0</idClass>
+      <issn>1541-0161</issn>
+      <title>SOUND AND VIBRATION</title>
+      <title-abrev>Sound Vib.</title-abrev>
+      <title-abrev>SOUND VIB</title-abrev>
+      <publisher>ACOUSTICAL PUBL INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>ENGINEERING, MECHANICAL</subject>
+      <subject>MECHANICS</subject>
+      <impact-factor>0.045</impact-factor>
+      <impact-factor-5-years>0.301</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>24</id>
+      <idClass>0</idClass>
+      <issn>0167-6393</issn>
+      <title>SPEECH COMMUNICATION</title>
+      <title-abrev>Speech Commun.</title-abrev>
+      <title-abrev>SPEECH COMMUN</title-abrev>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS</subject>
+      <impact-factor>1.038</impact-factor>
+      <impact-factor-5-years>1.470</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>25</id>
+      <idClass>0</idClass>
+      <issn>0172-4614</issn>
+      <title>ULTRASCHALL IN DER MEDIZIN</title>
+      <title-abrev>Ultraschall Med.</title-abrev>
+      <title-abrev>ULTRASCHALL MED</title-abrev>
+      <publisher>GEORG THIEME VERLAG KG</publisher>
+      <pub-type>J</pub-type>
+      <language>GERMAN</language>
+      <subject>ACOUSTICS</subject>
+      <subject>RADIOLOGY, NUCLEAR MEDICINE `AND` MEDICAL IMAGING</subject>
+      <impact-factor>4.434</impact-factor>
+      <impact-factor-5-years>4.081</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>26</id>
+      <idClass>0</idClass>
+      <issn>1350-4177</issn>
+      <title>ULTRASONICS SONOCHEMISTRY</title>
+      <title-abrev>Ultrason. Sonochem.</title-abrev>
+      <title-abrev>ULTRASON SONOCHEM</title-abrev>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>CHEMISTRY, MULTIDISCIPLINARY</subject>
+      <impact-factor>4.556</impact-factor>
+      <impact-factor-5-years>4.630</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>27</id>
+      <idClass>0</idClass>
+      <issn>0161-7346</issn>
+      <title>ULTRASONIC IMAGING</title>
+      <title-abrev>Ultrason. Imaging</title-abrev>
+      <publisher>SAGE PUBLICATIONS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>ENGINEERING, BIOMEDICAL</subject>
+      <subject>RADIOLOGY, NUCLEAR MEDICINE `AND` MEDICAL IMAGING</subject>
+      <impact-factor>2.111</impact-factor>
+      <impact-factor-5-years>1.874</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>28</id>
+      <idClass>0</idClass>
+      <issn>0041-624X</issn>
+      <title>ULTRASONICS</title>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>RADIOLOGY, NUCLEAR MEDICINE `AND` MEDICAL IMAGING</subject>
+      <impact-factor>1.954</impact-factor>
+      <impact-factor-5-years>2.059</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>29</id>
+      <idClass>0</idClass>
+      <issn>0301-5629</issn>
+      <title>ULTRASOUND IN MEDICINE AND BIOLOGY</title>
+      <title-abrev>Ultrasound Med. Biol.</title-abrev>
+      <title-abrev>ULTRASOUND MED BIOL</title-abrev>
+      <publisher>ELSEVIER SCIENCE INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>RADIOLOGY, NUCLEAR MEDICINE `AND` MEDICAL IMAGING</subject>
+      <impact-factor>2.298</impact-factor>
+      <impact-factor-5-years>2.554</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>30</id>
+      <idClass>0</idClass>
+      <issn>0960-7692</issn>
+      <title>ULTRASOUND IN OBSTETRICS `AND` GYNECOLOGY</title>
+      <title-abrev>Ultrasound Obstet. Gynecol.</title-abrev>
+      <title-abrev>ULTRASOUND OBST GYN</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>OBSTETRICS `AND` GYNECOLOGY</subject>
+      <subject>RADIOLOGY, NUCLEAR MEDICINE `AND` MEDICAL IMAGING</subject>
+      <impact-factor>4.254</impact-factor>
+      <impact-factor-5-years>3.693</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>31</id>
+      <idClass>0</idClass>
+      <issn>0165-2125</issn>
+      <title>WAVE MOTION</title>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ACOUSTICS</subject>
+      <subject>MECHANICS</subject>
+      <subject>PHYSICS, MULTIDISCIPLINARY</subject>
+      <impact-factor>1.449</impact-factor>
+      <impact-factor-5-years>1.325</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>32</id>
+      <idClass>0</idClass>
+      <issn>0169-5150</issn>
+      <title>AGRICULTURAL ECONOMICS</title>
+      <title-abrev>Agric. Econ.</title-abrev>
+      <title-abrev>AGR ECON-BLACKWELL</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ECONOMICS `AND` POLICY</subject>
+      <impact-factor>1.739</impact-factor>
+      <impact-factor-5-years>1.701</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>33</id>
+      <idClass>0</idClass>
+      <issn>0139-570X</issn>
+      <title>Agricultural Economics-Zemedelska Ekonomika</title>
+      <title-abrev>Agric. Econ.</title-abrev>
+      <title-abrev>AGR ECON-CZECH</title-abrev>
+      <publisher>CZECH ACADEMY AGRICULTURAL SCIENCES</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ECONOMICS `AND` POLICY</subject>
+      <impact-factor>0.482</impact-factor>
+      <impact-factor-5-years>0.477</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>34</id>
+      <idClass>0</idClass>
+      <issn>0303-1853</issn>
+      <title>Agrekon</title>
+      <publisher>AGRICULTURAL ECON ASSOC SOUTH AFRICA</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ECONOMICS `AND` POLICY</subject>
+      <impact-factor>0.250</impact-factor>
+      <impact-factor-5-years>0.311</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>35</id>
+      <idClass>0</idClass>
+      <issn>0742-4477</issn>
+      <title>Agribusiness</title>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ECONOMICS `AND` POLICY</subject>
+      <subject>FOOD SCIENCE `AND` TECHNOLOGY</subject>
+      <impact-factor>0.738</impact-factor>
+      <impact-factor-5-years>0.949</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>36</id>
+      <idClass>0</idClass>
+      <issn>0002-9092</issn>
+      <title>AMERICAN JOURNAL OF AGRICULTURAL ECONOMICS</title>
+      <title-abrev>Am. J. Agr. Econ.</title-abrev>
+      <title-abrev>AM J AGR ECON</title-abrev>
+      <publisher>OXFORD UNIV PRESS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ECONOMICS `AND` POLICY</subject>
+      <impact-factor>1.436</impact-factor>
+      <impact-factor-5-years>1.828</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>37</id>
+      <idClass>0</idClass>
+      <issn>1941-1340</issn>
+      <title>Annual Review of Resource Economics</title>
+      <title-abrev>Annu. Rev. Resour. Econ</title-abrev>
+      <publisher>ANNUAL REVIEWS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ECONOMICS `AND` POLICY</subject>
+      <impact-factor>1.042</impact-factor>
+      <impact-factor-5-years>1.365</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>38</id>
+      <idClass>0</idClass>
+      <issn>2040-5790</issn>
+      <title>Applied Economic Perspectives and Policy</title>
+      <title-abrev>Appl. Econ. Perspect. Policy</title-abrev>
+      <title-abrev>APPL ECON PERSPECT P</title-abrev>
+      <publisher>OXFORD UNIV PRESS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ECONOMICS `AND` POLICY</subject>
+      <impact-factor>1.148</impact-factor>
+      <impact-factor-5-years>1.874</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>39</id>
+      <idClass>0</idClass>
+      <issn>1364-985X</issn>
+      <title>AUSTRALIAN JOURNAL OF AGRICULTURAL AND RESOURCE ECONOMICS</title>
+      <title-abrev>Aust. J. Agr. Resour. Econ.</title-abrev>
+      <title-abrev>AUST J AGR RESOUR EC</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ECONOMICS `AND` POLICY</subject>
+      <impact-factor>1.302</impact-factor>
+      <impact-factor-5-years>1.516</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>40</id>
+      <idClass>0</idClass>
+      <issn>0008-3976</issn>
+      <title>CANADIAN JOURNAL OF AGRICULTURAL ECONOMICS-REVUE CANADIENNE D AGROECONOMIE</title>
+      <title-abrev>Can. J. Agric. Econ.-Rev. Can. Agroecon.</title-abrev>
+      <title-abrev>CAN J AGR ECON</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRICULTURAL ECONOMICS `AND` POLICY</subject>
+      <impact-factor>1.291</impact-factor>
+      <impact-factor-5-years>1.113</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>41</id>
+      <idClass>0</idClass>
+      <issn>1756-137X</issn>
+      <title>China Agricultural Economic Review</title>
+      <title-abrev>China Agric. Econ. Rev.</title-abrev>
+      <title-abrev>CHINA AGR ECON REV</title-abrev>
+      <publisher>EMERALD GROUP PUBLISHING LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ECONOMICS `AND` POLICY</subject>
+      <impact-factor>0.609</impact-factor>
+      <impact-factor-5-years>0.574</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>42</id>
+      <idClass>0</idClass>
+      <issn>1808-2882</issn>
+      <title>Custos e Agronegocio On Line</title>
+      <title-abrev>Custos Agronegocio Line</title-abrev>
+      <title-abrev>CUST AGRONEGOCIO</title-abrev>
+      <publisher>UNIV FED RURAL PERNAMBUCO, DEPT LETRAS CIENCIAS HUMANAS</publisher>
+      <pub-type>J</pub-type>
+      <language>PORTUGUESE</language>
+      <subject>AGRICULTURAL ECONOMICS `AND` POLICY</subject>
+      <impact-factor>0.028</impact-factor>
+      <impact-factor-5-years>0.072</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>43</id>
+      <idClass>0</idClass>
+      <issn>0165-1587</issn>
+      <title>EUROPEAN REVIEW OF AGRICULTURAL ECONOMICS</title>
+      <title-abrev>Eur. Rev. Agric. Econ.</title-abrev>
+      <title-abrev>EUR REV AGRIC ECON</title-abrev>
+      <publisher>OXFORD UNIV PRESS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ECONOMICS `AND` POLICY</subject>
+      <impact-factor>1.544</impact-factor>
+      <impact-factor-5-years>1.828</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>44</id>
+      <idClass>0</idClass>
+      <issn>0306-9192</issn>
+      <title>FOOD POLICY</title>
+      <publisher>ELSEVIER SCI LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ECONOMICS `AND` POLICY</subject>
+      <subject>FOOD SCIENCE `AND` TECHNOLOGY</subject>
+      <subject>NUTRITION `AND` DIETETICS</subject>
+      <impact-factor>2.044</impact-factor>
+      <impact-factor-5-years>2.949</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>45</id>
+      <idClass>0</idClass>
+      <issn>0002-1121</issn>
+      <title>German Journal of Agricultural Economics</title>
+      <title-abrev>Ger. J. Agric. Econ.</title-abrev>
+      <title-abrev>GER J AGR ECON</title-abrev>
+      <publisher>DEUTSCHER FACHVERLAG GMBH</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRICULTURAL ECONOMICS `AND` POLICY</subject>
+      <impact-factor>0.489</impact-factor>
+      <impact-factor-5-years>0.375</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>46</id>
+      <idClass>0</idClass>
+      <issn>1559-2448</issn>
+      <title>International Food and Agribusiness Management Review</title>
+      <title-abrev>Int. Food Agribus. Manag. Rev.</title-abrev>
+      <title-abrev>INT FOOD AGRIBUS MAN</title-abrev>
+      <publisher>INT FOOD `AND` AGRIBUSINESS MANAGEMENT REVIEW</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ECONOMICS `AND` POLICY</subject>
+      <impact-factor>0.435</impact-factor>
+      <impact-factor-5-years>0.647</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>47</id>
+      <idClass>0</idClass>
+      <issn>0021-857X</issn>
+      <title>JOURNAL OF AGRICULTURAL ECONOMICS</title>
+      <title-abrev>J. Agric. Econ.</title-abrev>
+      <title-abrev>J AGR ECON</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ECONOMICS `AND` POLICY</subject>
+      <impact-factor>1.545</impact-factor>
+      <impact-factor-5-years>2.037</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>48</id>
+      <idClass>0</idClass>
+      <issn>1068-5502</issn>
+      <title>JOURNAL OF AGRICULTURAL AND RESOURCE ECONOMICS</title>
+      <title-abrev>J. Agric. Resour. Econ.</title-abrev>
+      <title-abrev>J AGR RESOUR ECON</title-abrev>
+      <publisher>WESTERN AGRICULTURAL ECONOMICS ASSOC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ECONOMICS `AND` POLICY</subject>
+      <impact-factor>0.523</impact-factor>
+      <impact-factor-5-years>0.868</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>49</id>
+      <idClass>0</idClass>
+      <issn>0084-5841</issn>
+      <title>AMA-Agricultural Mechanization in Asia Africa and Latin America</title>
+      <title-abrev>AMA-Agric. Mech. Asia Afr. Lat. A.</title-abrev>
+      <title-abrev>AMA-AGR MECH ASIA AF</title-abrev>
+      <publisher>FARM MACHINERY INDUSTRIAL RESEARCH CORP</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ENGINEERING</subject>
+      <impact-factor>0.055</impact-factor>
+      <impact-factor-5-years>0.044</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>50</id>
+      <idClass>0</idClass>
+      <issn>0883-8542</issn>
+      <title>APPLIED ENGINEERING IN AGRICULTURE</title>
+      <title-abrev>Appl. Eng. Agric.</title-abrev>
+      <title-abrev>APPL ENG AGRIC</title-abrev>
+      <publisher>AMER SOC AGRICULTURAL `AND` BIOLOGICAL ENGINEERS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ENGINEERING</subject>
+      <impact-factor>0.429</impact-factor>
+      <impact-factor-5-years>0.619</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>51</id>
+      <idClass>0</idClass>
+      <issn>0144-8609</issn>
+      <title>AQUACULTURAL ENGINEERING</title>
+      <title-abrev>Aquac. Eng.</title-abrev>
+      <title-abrev>AQUACULT ENG</title-abrev>
+      <publisher>ELSEVIER SCI LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ENGINEERING</subject>
+      <subject>FISHERIES</subject>
+      <impact-factor>1.381</impact-factor>
+      <impact-factor-5-years>1.703</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>52</id>
+      <idClass>0</idClass>
+      <issn>0961-9534</issn>
+      <title>BIOMASS `AND` BIOENERGY</title>
+      <title-abrev>Biomass Bioenerg.</title-abrev>
+      <title-abrev>BIOMASS BIOENERG</title-abrev>
+      <publisher>PERGAMON-ELSEVIER SCIENCE LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ENGINEERING</subject>
+      <subject>BIOTECHNOLOGY `AND` APPLIED MICROBIOLOGY</subject>
+      <subject>ENERGY `AND` FUELS</subject>
+      <impact-factor>3.249</impact-factor>
+      <impact-factor-5-years>4.146</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>53</id>
+      <idClass>0</idClass>
+      <issn>0960-8524</issn>
+      <title>BIORESOURCE TECHNOLOGY</title>
+      <title-abrev>Bioresour. Technol.</title-abrev>
+      <title-abrev>BIORESOURCE TECHNOL</title-abrev>
+      <publisher>ELSEVIER SCI LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ENGINEERING</subject>
+      <subject>BIOTECHNOLOGY `AND` APPLIED MICROBIOLOGY</subject>
+      <subject>ENERGY `AND` FUELS</subject>
+      <impact-factor>4.917</impact-factor>
+      <impact-factor-5-years>5.744</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>54</id>
+      <idClass>0</idClass>
+      <issn>1537-5110</issn>
+      <title>BIOSYSTEMS ENGINEERING</title>
+      <title-abrev>Biosyst. Eng.</title-abrev>
+      <title-abrev>BIOSYST ENG</title-abrev>
+      <publisher>ACADEMIC PRESS INC ELSEVIER SCIENCE</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ENGINEERING</subject>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>1.997</impact-factor>
+      <impact-factor-5-years>2.063</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>55</id>
+      <idClass>0</idClass>
+      <issn>0100-6916</issn>
+      <title>Engenharia Agricola</title>
+      <title-abrev>Eng. Agric.</title-abrev>
+      <title-abrev>ENG AGR-JABOTICABAL</title-abrev>
+      <publisher>SOC BRASIL ENGENHARIA AGRICOLA</publisher>
+      <pub-type>J</pub-type>
+      <language>PORTUGUESE</language>
+      <subject>AGRICULTURAL ENGINEERING</subject>
+      <impact-factor>0.230</impact-factor>
+      <impact-factor-5-years>0.513</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>56</id>
+      <idClass>0</idClass>
+      <issn>0926-6690</issn>
+      <title>INDUSTRIAL CROPS AND PRODUCTS</title>
+      <title-abrev>Ind. Crop. Prod.</title-abrev>
+      <title-abrev>IND CROP PROD</title-abrev>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ENGINEERING</subject>
+      <subject>AGRONOMY</subject>
+      <impact-factor>3.449</impact-factor>
+      <impact-factor-5-years>3.554</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>57</id>
+      <idClass>0</idClass>
+      <issn>1934-6344</issn>
+      <title>International Journal of Agricultural and Biological Engineering</title>
+      <title-abrev>Int. J. Agric. Biol. Eng.</title-abrev>
+      <title-abrev>INT J AGR BIOL ENG</title-abrev>
+      <publisher>CHINESE ACAD AGRICULTURAL ENGINEERING</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ENGINEERING</subject>
+      <impact-factor>1.007</impact-factor>
+   </pub-venue>
+   <pub-venue>
+      <id>58</id>
+      <idClass>0</idClass>
+      <issn>0733-9437</issn>
+      <title>JOURNAL OF IRRIGATION AND DRAINAGE ENGINEERING</title>
+      <title-abrev>J. Irrig. Drainage Eng-ASCE</title-abrev>
+      <title-abrev>J IRRIG DRAIN ENG</title-abrev>
+      <publisher>ASCE-AMER SOC CIVIL ENGINEERS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ENGINEERING</subject>
+      <subject>ENGINEERING, CIVIL</subject>
+      <subject>WATER RESOURCES</subject>
+      <impact-factor>1.364</impact-factor>
+      <impact-factor-5-years>1.406</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>59</id>
+      <idClass>0</idClass>
+      <issn>1738-2203</issn>
+      <title>Journal of the Korean Society for Applied Biological Chemistry</title>
+      <title-abrev>J. Korean Soc. Appl. Biol. Chem.</title-abrev>
+      <title-abrev>J KOREAN SOC APPL BI</title-abrev>
+      <publisher>KOREAN SOC APPLIED BIOLOGICAL CHEMISTRY</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ENGINEERING</subject>
+      <subject>FOOD SCIENCE `AND` TECHNOLOGY</subject>
+      <impact-factor>0.655</impact-factor>
+      <impact-factor-5-years>0.694</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>60</id>
+      <idClass>0</idClass>
+      <issn>1611-2490</issn>
+      <title>Paddy and Water Environment</title>
+      <title-abrev>Paddy Water Environ.</title-abrev>
+      <title-abrev>PADDY WATER ENVIRON</title-abrev>
+      <publisher>SPRINGER HEIDELBERG</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ENGINEERING</subject>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.871</impact-factor>
+      <impact-factor-5-years>1.145</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>61</id>
+      <idClass>0</idClass>
+      <issn>1807-1929</issn>
+      <title>Revista Brasileira de Engenharia Agricola e Ambiental</title>
+      <title-abrev>Rev. Bras. Eng. Agric. Ambient.</title-abrev>
+      <title-abrev>REV BRAS ENG AGR AMB</title-abrev>
+      <publisher>UNIV FEDERAL CAMPINA GRANDE</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRICULTURAL ENGINEERING</subject>
+      <impact-factor>0.478</impact-factor>
+      <impact-factor-5-years>0.622</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>62</id>
+      <idClass>0</idClass>
+      <issn>2151-0032</issn>
+      <title>Transactions of the ASABE</title>
+      <title-abrev>Trans. ASABE</title-abrev>
+      <title-abrev>T ASABE</title-abrev>
+      <publisher>AMER SOC AGRICULTURAL `AND` BIOLOGICAL ENGINEERS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ENGINEERING</subject>
+      <impact-factor>0.913</impact-factor>
+      <impact-factor-5-years>1.467</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>63</id>
+      <idClass>0</idClass>
+      <issn>0906-4702</issn>
+      <title>ACTA AGRICULTURAE SCANDINAVICA SECTION A-ANIMAL SCIENCE</title>
+      <title-abrev>Acta Agric. Scand. Sect. A-Anim. Sci.</title-abrev>
+      <title-abrev>ACTA AGR SCAND A-AN</title-abrev>
+      <publisher>TAYLOR `AND` FRANCIS AS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.769</impact-factor>
+      <impact-factor-5-years>0.660</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>64</id>
+      <idClass>0</idClass>
+      <issn>1049-5398</issn>
+      <title>ANIMAL BIOTECHNOLOGY</title>
+      <title-abrev>Anim. Biotechnol.</title-abrev>
+      <title-abrev>ANIM BIOTECHNOL</title-abrev>
+      <publisher>TAYLOR `AND` FRANCIS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <subject>BIOTECHNOLOGY `AND` APPLIED MICROBIOLOGY</subject>
+      <impact-factor>0.686</impact-factor>
+      <impact-factor-5-years>0.837</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>65</id>
+      <idClass>0</idClass>
+      <issn>0377-8401</issn>
+      <title>ANIMAL FEED SCIENCE AND TECHNOLOGY</title>
+      <title-abrev>Anim. Feed Sci. Technol.</title-abrev>
+      <title-abrev>ANIM FEED SCI TECH</title-abrev>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>1.713</impact-factor>
+      <impact-factor-5-years>2.324</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>66</id>
+      <idClass>0</idClass>
+      <issn>0268-9146</issn>
+      <title>ANIMAL GENETICS</title>
+      <title-abrev>Anim. Genet.</title-abrev>
+      <title-abrev>ANIM GENET</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <subject>GENETICS `AND` HEREDITY</subject>
+      <impact-factor>1.779</impact-factor>
+      <impact-factor-5-years>2.177</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>67</id>
+      <idClass>0</idClass>
+      <issn>0972-2963</issn>
+      <title>Animal Nutrition and Feed Technology</title>
+      <title-abrev>Anim. Nutr. Feed Technol.</title-abrev>
+      <title-abrev>ANIM NUTR FEED TECHN</title-abrev>
+      <publisher>ANIMAL NUTRITION ASSOC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.252</impact-factor>
+      <impact-factor-5-years>0.238</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>68</id>
+      <idClass>0</idClass>
+      <issn>1806-9614</issn>
+      <title>Animal Reproduction</title>
+      <title-abrev>Anim. Reprod.</title-abrev>
+      <title-abrev>ANIM REPROD</title-abrev>
+      <publisher>BRAZILIAN COLL ANIMAL REPRODUCTION</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.574</impact-factor>
+   </pub-venue>
+   <pub-venue>
+      <id>69</id>
+      <idClass>0</idClass>
+      <issn>0378-4320</issn>
+      <title>ANIMAL REPRODUCTION SCIENCE</title>
+      <title-abrev>Anim. Reprod. Sci.</title-abrev>
+      <title-abrev>ANIM REPROD SCI</title-abrev>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>DUTCH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <subject>REPRODUCTIVE BIOLOGY</subject>
+      <impact-factor>1.377</impact-factor>
+      <impact-factor-5-years>1.744</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>70</id>
+      <idClass>0</idClass>
+      <issn>1344-3941</issn>
+      <title>ANIMAL SCIENCE JOURNAL</title>
+      <title-abrev>Anim. Sci. J.</title-abrev>
+      <title-abrev>ANIM SCI J</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>1.045</impact-factor>
+      <impact-factor-5-years>1.038</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>71</id>
+      <idClass>0</idClass>
+      <issn>0860-4037</issn>
+      <title>ANIMAL SCIENCE PAPERS AND REPORTS</title>
+      <title-abrev>Anim. Sci. Pap. Rep.</title-abrev>
+      <title-abrev>ANIM SCI PAP REP</title-abrev>
+      <publisher>POLSKA AKAD NAUK, INST GENETYKI I HODOWLI ZWIERZAT</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.623</impact-factor>
+      <impact-factor-5-years>0.826</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>72</id>
+      <idClass>0</idClass>
+      <issn>1751-7311</issn>
+      <title>Animal</title>
+      <publisher>CAMBRIDGE UNIV PRESS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <subject>VETERINARY SCIENCES</subject>
+      <impact-factor>2.056</impact-factor>
+      <impact-factor-5-years>2.194</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>73</id>
+      <idClass>0</idClass>
+      <issn>2300-8733</issn>
+      <title>Annals of Animal Science</title>
+      <title-abrev>Ann. Anim. Sci.</title-abrev>
+      <title-abrev>ANN ANIM SCI</title-abrev>
+      <publisher>WALTER DE GRUYTER GMBH</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.599</impact-factor>
+      <impact-factor-5-years>0.531</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>74</id>
+      <idClass>0</idClass>
+      <issn>2165-8102</issn>
+      <title>Annual Review of Animal Biosciences</title>
+      <title-abrev>ANNU REV ANIM BIOSCI</title-abrev>
+      <publisher>ANNUAL REVIEWS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <subject>BIOTECHNOLOGY `AND` APPLIED MICROBIOLOGY</subject>
+      <subject>VETERINARY SCIENCES</subject>
+      <subject>ZOOLOGY</subject>
+      <impact-factor>4.348</impact-factor>
+      <impact-factor-5-years>4.348</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>75</id>
+      <idClass>0</idClass>
+      <issn>0168-1591</issn>
+      <title>APPLIED ANIMAL BEHAVIOUR SCIENCE</title>
+      <title-abrev>Appl. Anim. Behav. Sci.</title-abrev>
+      <title-abrev>APPL ANIM BEHAV SCI</title-abrev>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <subject>BEHAVIORAL SCIENCES</subject>
+      <subject>VETERINARY SCIENCES</subject>
+      <impact-factor>1.795</impact-factor>
+      <impact-factor-5-years>2.099</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>76</id>
+      <idClass>0</idClass>
+      <issn>1745-039X</issn>
+      <title>ARCHIVES OF ANIMAL NUTRITION</title>
+      <title-abrev>Arch. Anim. Nutr.</title-abrev>
+      <title-abrev>ARCH ANIM NUTR</title-abrev>
+      <publisher>TAYLOR `AND` FRANCIS LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>1.319</impact-factor>
+      <impact-factor-5-years>1.484</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>77</id>
+      <idClass>0</idClass>
+      <issn>0003-9098</issn>
+      <title>ARCHIV FUR GEFLUGELKUNDE</title>
+      <title-abrev>Arch. Geflugelkd.</title-abrev>
+      <title-abrev>ARCH GEFLUGELKD</title-abrev>
+      <publisher>EUGEN ULMER GMBH CO</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.487</impact-factor>
+      <impact-factor-5-years>0.488</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>78</id>
+      <idClass>0</idClass>
+      <issn>0003-9438</issn>
+      <title>ARCHIV FUR TIERZUCHT-ARCHIVES OF ANIMAL BREEDING</title>
+      <title-abrev>Arch. Tierz.-Arch. Anim. Breed.</title-abrev>
+      <title-abrev>ARCH TIERZUCHT</title-abrev>
+      <publisher>ARCHIV FUR TIERZUCHT</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.493</impact-factor>
+      <impact-factor-5-years>0.565</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>79</id>
+      <idClass>0</idClass>
+      <issn>1011-2367</issn>
+      <title>ASIAN-AUSTRALASIAN JOURNAL OF ANIMAL SCIENCES</title>
+      <title-abrev>Asian Australas. J. Anim. Sci.</title-abrev>
+      <title-abrev>ASIAN AUSTRAL J ANIM</title-abrev>
+      <publisher>ASIAN-AUSTRALASIAN ASSOC ANIMAL PRODUCTION SOC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.756</impact-factor>
+      <impact-factor-5-years>0.813</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>80</id>
+      <idClass>0</idClass>
+      <issn>1758-1559</issn>
+      <title>Avian Biology Research</title>
+      <title-abrev>Avian Biol. Res.</title-abrev>
+      <title-abrev>AVIAN BIOL RES</title-abrev>
+      <publisher>SCIENCE REVIEWS 2000 LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <subject>ORNITHOLOGY</subject>
+      <impact-factor>0.806</impact-factor>
+      <impact-factor-5-years>0.832</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>81</id>
+      <idClass>0</idClass>
+      <issn>1516-635X</issn>
+      <title>Brazilian Journal of Poultry Science</title>
+      <title-abrev>Braz. J. Poult. Sci.</title-abrev>
+      <title-abrev>BRAZ J POULTRY SCI</title-abrev>
+      <publisher>FACTA-FUNDACIO ARNCO CIENCIA TECNOLOGIA AVICOLAS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.425</impact-factor>
+      <impact-factor-5-years>0.588</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>82</id>
+      <idClass>0</idClass>
+      <issn>0007-1668</issn>
+      <title>BRITISH POULTRY SCIENCE</title>
+      <title-abrev>Br. Poult. Sci.</title-abrev>
+      <title-abrev>BRIT POULTRY SCI</title-abrev>
+      <publisher>TAYLOR `AND` FRANCIS LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.933</impact-factor>
+      <impact-factor-5-years>1.244</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>83</id>
+      <idClass>0</idClass>
+      <issn>0125-6726</issn>
+      <title>Buffalo Bulletin</title>
+      <title-abrev>Buffalo Bull.</title-abrev>
+      <title-abrev>BUFFALO BULL</title-abrev>
+      <publisher>INT BUFFALO INFORMATION CTR</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.067</impact-factor>
+      <impact-factor-5-years>0.095</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>84</id>
+      <idClass>0</idClass>
+      <issn>0008-3984</issn>
+      <title>CANADIAN JOURNAL OF ANIMAL SCIENCE</title>
+      <title-abrev>Can. J. Anim. Sci.</title-abrev>
+      <title-abrev>CAN J ANIM SCI</title-abrev>
+      <publisher>AGRICULTURAL INST CANADA</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.724</impact-factor>
+      <impact-factor-5-years>0.988</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>85</id>
+      <idClass>0</idClass>
+      <issn>1212-1819</issn>
+      <title>CZECH JOURNAL OF ANIMAL SCIENCE</title>
+      <title-abrev>Czech J. Anim. Sci.</title-abrev>
+      <title-abrev>CZECH J ANIM SCI</title-abrev>
+      <publisher>CZECH ACADEMY AGRICULTURAL SCIENCES</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.809</impact-factor>
+      <impact-factor-5-years>0.988</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>86</id>
+      <idClass>0</idClass>
+      <issn>0739-7240</issn>
+      <title>DOMESTIC ANIMAL ENDOCRINOLOGY</title>
+      <title-abrev>Domest. Anim. Endocrinol.</title-abrev>
+      <title-abrev>DOMEST ANIM ENDOCRIN</title-abrev>
+      <publisher>ELSEVIER SCIENCE INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <subject>ENDOCRINOLOGY `AND` METABOLISM</subject>
+      <impact-factor>1.613</impact-factor>
+      <impact-factor-5-years>2.115</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>87</id>
+      <idClass>0</idClass>
+      <issn>1612-9199</issn>
+      <title>European Poultry Science</title>
+      <title-abrev>Eur. Poult. Sci.</title-abrev>
+      <title-abrev>EUR POULTRY SCI</title-abrev>
+      <publisher>EUGEN ULMER GMBH CO</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.296</impact-factor>
+      <impact-factor-5-years>0.296</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>88</id>
+      <idClass>0</idClass>
+      <issn>0429-2766</issn>
+      <title>Fourrages</title>
+      <publisher>ASSOC FRANCAISE PRODUCTION FOURRAGERE</publisher>
+      <pub-type>J</pub-type>
+      <language>FRENCH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.202</impact-factor>
+      <impact-factor-5-years>0.235</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>89</id>
+      <idClass>0</idClass>
+      <issn>0999-193X</issn>
+      <title>GENETICS SELECTION EVOLUTION</title>
+      <title-abrev>Genet. Sel. Evol.</title-abrev>
+      <title-abrev>GENET SEL EVOL</title-abrev>
+      <publisher>BIOMED CENTRAL LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <subject>GENETICS `AND` HEREDITY</subject>
+      <impact-factor>2.895</impact-factor>
+      <impact-factor-5-years>3.490</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>90</id>
+      <idClass>0</idClass>
+      <issn>0367-6722</issn>
+      <title>Indian Journal of Animal Research</title>
+      <title-abrev>Indian J. Anim. Res.</title-abrev>
+      <title-abrev>INDIAN J ANIM RES</title-abrev>
+      <publisher>AGRICULTURAL RESEARCH COMMUNICATION CENTRE</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.091</impact-factor>
+      <impact-factor-5-years>0.108</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>91</id>
+      <idClass>0</idClass>
+      <issn>0367-8318</issn>
+      <title>INDIAN JOURNAL OF ANIMAL SCIENCES</title>
+      <title-abrev>Indian J. Anim. Sci.</title-abrev>
+      <title-abrev>INDIAN J ANIM SCI</title-abrev>
+      <publisher>INDIAN COUNC AGRICULTURAL RES</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.174</impact-factor>
+      <impact-factor-5-years>0.198</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>92</id>
+      <idClass>0</idClass>
+      <issn>0990-0632</issn>
+      <title>Inra Productions Animales</title>
+      <title-abrev>Inra Prod. Anim.</title-abrev>
+      <title-abrev>INRA PROD ANIM</title-abrev>
+      <publisher>INST NATL RECHERCHE AGRONOMIQUE</publisher>
+      <pub-type>J</pub-type>
+      <language>FRENCH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <subject>VETERINARY SCIENCES</subject>
+      <impact-factor>0.767</impact-factor>
+      <impact-factor-5-years>0.672</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>93</id>
+      <idClass>0</idClass>
+      <issn>1594-4077</issn>
+      <title>Italian Journal of Animal Science</title>
+      <title-abrev>Ital. J. Anim. Sci.</title-abrev>
+      <title-abrev>ITAL J ANIM SCI</title-abrev>
+      <publisher>PAGEPRESS PUBL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <subject>VETERINARY SCIENCES</subject>
+      <impact-factor>0.841</impact-factor>
+      <impact-factor-5-years>0.932</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>94</id>
+      <idClass>0</idClass>
+      <issn>1699-6887</issn>
+      <title>ITEA-Informacion Tecnica Economica Agraria</title>
+      <title-abrev>ITEA-Inf. Tec. Econ. Agrar.</title-abrev>
+      <title-abrev>ITEA-INF TEC ECON AG</title-abrev>
+      <publisher>ASOCIACION INTERPROFESIONAL DESARROLLO AGARIO</publisher>
+      <pub-type>J</pub-type>
+      <language>SPANISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.389</impact-factor>
+      <impact-factor-5-years>0.363</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>95</id>
+      <idClass>0</idClass>
+      <issn>0931-2668</issn>
+      <title>JOURNAL OF ANIMAL BREEDING AND GENETICS</title>
+      <title-abrev>J. Anim. Breed. Genet.</title-abrev>
+      <title-abrev>J ANIM BREED GENET</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>1.745</impact-factor>
+      <impact-factor-5-years>1.593</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>96</id>
+      <idClass>0</idClass>
+      <issn>1230-1388</issn>
+      <title>JOURNAL OF ANIMAL AND FEED SCIENCES</title>
+      <title-abrev>J. Anim. Feed Sci.</title-abrev>
+      <title-abrev>J ANIM FEED SCI</title-abrev>
+      <publisher>KIELANOWSKI INST ANIMAL PHYSIOLOGY NUTRITION</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.511</impact-factor>
+      <impact-factor-5-years>0.751</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>97</id>
+      <idClass>0</idClass>
+      <issn>0931-2439</issn>
+      <title>JOURNAL OF ANIMAL PHYSIOLOGY AND ANIMAL NUTRITION</title>
+      <title-abrev>J. Anim. Physiol. Anim. Nutr.</title-abrev>
+      <title-abrev>J ANIM PHYSIOL AN N</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <subject>VETERINARY SCIENCES</subject>
+      <impact-factor>1.212</impact-factor>
+      <impact-factor-5-years>1.313</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>98</id>
+      <idClass>0</idClass>
+      <issn>0021-8812</issn>
+      <title>JOURNAL OF ANIMAL SCIENCE</title>
+      <title-abrev>J. Anim. Sci.</title-abrev>
+      <title-abrev>J ANIM SCI</title-abrev>
+      <publisher>AMER SOC ANIMAL SCIENCE</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>2.014</impact-factor>
+      <impact-factor-5-years>2.247</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>99</id>
+      <idClass>0</idClass>
+      <issn>2049-1891</issn>
+      <title>Journal of Animal Science and Biotechnology</title>
+      <title-abrev>J. Anim. Sci. Biotechnol.</title-abrev>
+      <title-abrev>J ANIM SCI BIOTECHNO</title-abrev>
+      <publisher>BIOMED CENTRAL LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>2.037</impact-factor>
+   </pub-venue>
+   <pub-venue>
+      <id>100</id>
+      <idClass>0</idClass>
+      <issn>0971-2119</issn>
+      <title>JOURNAL OF APPLIED ANIMAL RESEARCH</title>
+      <title-abrev>J. Appl. Anim. Res.</title-abrev>
+      <title-abrev>J APPL ANIM RES</title-abrev>
+      <publisher>TAYLOR `AND` FRANCIS LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.503</impact-factor>
+      <impact-factor-5-years>0.391</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>101</id>
+      <idClass>0</idClass>
+      <issn>1056-6171</issn>
+      <title>JOURNAL OF APPLIED POULTRY RESEARCH</title>
+      <title-abrev>J. Appl. Poult. Res.</title-abrev>
+      <title-abrev>J APPL POULTRY RES</title-abrev>
+      <publisher>OXFORD UNIV PRESS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.576</impact-factor>
+      <impact-factor-5-years>0.801</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>102</id>
+      <idClass>0</idClass>
+      <issn>0022-0299</issn>
+      <title>JOURNAL OF DAIRY RESEARCH</title>
+      <title-abrev>J. Dairy Res.</title-abrev>
+      <title-abrev>J DAIRY RES</title-abrev>
+      <publisher>CAMBRIDGE UNIV PRESS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <subject>FOOD SCIENCE `AND` TECHNOLOGY</subject>
+      <impact-factor>1.500</impact-factor>
+      <impact-factor-5-years>1.571</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>103</id>
+      <idClass>0</idClass>
+      <issn>0022-0302</issn>
+      <title>JOURNAL OF DAIRY SCIENCE</title>
+      <title-abrev>J. Dairy Sci.</title-abrev>
+      <title-abrev>J DAIRY SCI</title-abrev>
+      <publisher>ELSEVIER SCIENCE INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <subject>FOOD SCIENCE `AND` TECHNOLOGY</subject>
+      <impact-factor>2.408</impact-factor>
+      <impact-factor-5-years>2.854</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>104</id>
+      <idClass>0</idClass>
+      <issn>1346-7395</issn>
+      <title>JOURNAL OF POULTRY SCIENCE</title>
+      <title-abrev>J. Poult. Sci.</title-abrev>
+      <title-abrev>J POULT SCI</title-abrev>
+      <publisher>JAPAN POULTRY SCIENCE ASSOC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.513</impact-factor>
+      <impact-factor-5-years>0.668</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>105</id>
+      <idClass>0</idClass>
+      <issn>0916-8818</issn>
+      <title>JOURNAL OF REPRODUCTION AND DEVELOPMENT</title>
+      <title-abrev>J. Reprod. Dev.</title-abrev>
+      <title-abrev>J REPROD DEVELOP</title-abrev>
+      <publisher>SOCIETY REPRODUCTION `AND` DEVELOPMENT-SRD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <subject>REPRODUCTIVE BIOLOGY</subject>
+      <impact-factor>1.453</impact-factor>
+      <impact-factor-5-years>1.573</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>106</id>
+      <idClass>0</idClass>
+      <issn>1124-4593</issn>
+      <title>Large Animal Review</title>
+      <title-abrev>Large Anim. Rev.</title-abrev>
+      <title-abrev>LARGE ANIM REV</title-abrev>
+      <publisher>SIVAR-SOC ITALIANA VETERINARI ANIMALI REDDITO</publisher>
+      <pub-type>J</pub-type>
+      <language>ITALIAN</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.143</impact-factor>
+      <impact-factor-5-years>0.137</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>107</id>
+      <idClass>0</idClass>
+      <issn>1871-1413</issn>
+      <title>Livestock Science</title>
+      <title-abrev>Livest. Sci.</title-abrev>
+      <title-abrev>LIVEST SCI</title-abrev>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>1.293</impact-factor>
+      <impact-factor-5-years>1.509</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>108</id>
+      <idClass>0</idClass>
+      <issn>0026-704X</issn>
+      <title>Mljekarstvo</title>
+      <publisher>CROATIAN DAIRY UNION</publisher>
+      <pub-type>J</pub-type>
+      <language>CROATIAN</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.596</impact-factor>
+      <impact-factor-5-years>0.591</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>109</id>
+      <idClass>0</idClass>
+      <issn>0032-5791</issn>
+      <title>POULTRY SCIENCE</title>
+      <title-abrev>Poult. Sci.</title-abrev>
+      <title-abrev>POULTRY SCI</title-abrev>
+      <publisher>OXFORD UNIV PRESS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>1.685</impact-factor>
+      <impact-factor-5-years>1.905</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>110</id>
+      <idClass>0</idClass>
+      <issn>0936-6768</issn>
+      <title>REPRODUCTION IN DOMESTIC ANIMALS</title>
+      <title-abrev>Reprod. Domest. Anim.</title-abrev>
+      <title-abrev>REPROD DOMEST ANIM</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <subject>REPRODUCTIVE BIOLOGY</subject>
+      <subject>VETERINARY SCIENCES</subject>
+      <impact-factor>1.210</impact-factor>
+      <impact-factor-5-years>1.478</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>111</id>
+      <idClass>0</idClass>
+      <issn>1806-9290</issn>
+      <title>REVISTA BRASILEIRA DE ZOOTECNIA-BRAZILIAN JOURNAL OF ANIMAL SCIENCE</title>
+      <title-abrev>Rev. Bras. Zootecn.</title-abrev>
+      <title-abrev>REV BRAS ZOOTECN</title-abrev>
+      <publisher>REVISTA BRASILEIRA ZOOTECNIA BRAZILIAN JOURNAL ANIMAL SCI</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <subject>VETERINARY SCIENCES</subject>
+      <impact-factor>0.412</impact-factor>
+      <impact-factor-5-years>0.665</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>112</id>
+      <idClass>0</idClass>
+      <issn>0120-0690</issn>
+      <title>Revista Colombiana de Ciencias Pecuarias</title>
+      <title-abrev>Rev. Colomb Cienc. Pecu.</title-abrev>
+      <title-abrev>REV COLOMB CIENC PEC</title-abrev>
+      <publisher>UNIV ANTIOQUIA, FAC CIENCIAS AGRARIAS</publisher>
+      <pub-type>J</pub-type>
+      <language>SPANISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.441</impact-factor>
+      <impact-factor-5-years>0.348</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>113</id>
+      <idClass>0</idClass>
+      <issn>2007-1124</issn>
+      <title>Revista Mexicana de Ciencias Pecuarias</title>
+      <title-abrev>Rev. Mex. Cienc. Pecu.</title-abrev>
+      <title-abrev>REV MEX CIENC PECU</title-abrev>
+      <publisher>INIFAP-CENID PARASITOLOGIA VETERINARIA</publisher>
+      <pub-type>J</pub-type>
+      <language>SPANISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.577</impact-factor>
+      <impact-factor-5-years>0.628</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>114</id>
+      <idClass>0</idClass>
+      <issn>0122-0268</issn>
+      <title>Revista MVZ Cordoba</title>
+      <title-abrev>Rev. MVZ Cordoba</title-abrev>
+      <publisher>UNIV CORDOBA</publisher>
+      <pub-type>J</pub-type>
+      <language>SPANISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.197</impact-factor>
+      <impact-factor-5-years>0.240</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>115</id>
+      <idClass>0</idClass>
+      <issn>0375-1589</issn>
+      <title>SOUTH AFRICAN JOURNAL OF ANIMAL SCIENCE</title>
+      <title-abrev>South Afr. J. Anim. Sci.</title-abrev>
+      <title-abrev>S AFR J ANIM SCI</title-abrev>
+      <publisher>SOUTH AFRICAN JOURNAL OF ANIMAL SCIENCES</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.511</impact-factor>
+      <impact-factor-5-years>0.672</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>116</id>
+      <idClass>0</idClass>
+      <issn>0921-4488</issn>
+      <title>SMALL RUMINANT RESEARCH</title>
+      <title-abrev>Small Ruminant Res.</title-abrev>
+      <title-abrev>SMALL RUMINANT RES</title-abrev>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>1.083</impact-factor>
+      <impact-factor-5-years>1.275</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>117</id>
+      <idClass>0</idClass>
+      <issn>0049-4747</issn>
+      <title>TROPICAL ANIMAL HEALTH AND PRODUCTION</title>
+      <title-abrev>Trop. Anim. Health Prod.</title-abrev>
+      <title-abrev>TROP ANIM HEALTH PRO</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <subject>VETERINARY SCIENCES</subject>
+      <impact-factor>0.870</impact-factor>
+      <impact-factor-5-years>0.947</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>118</id>
+      <idClass>0</idClass>
+      <issn>0043-9339</issn>
+      <title>WORLDS POULTRY SCIENCE JOURNAL</title>
+      <title-abrev>Worlds Poult. Sci. J.</title-abrev>
+      <title-abrev>WORLD POULTRY SCI J</title-abrev>
+      <publisher>CAMBRIDGE UNIV PRESS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.974</impact-factor>
+      <impact-factor-5-years>1.413</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>119</id>
+      <idClass>0</idClass>
+      <issn>1257-5011</issn>
+      <title>World Rabbit Science</title>
+      <title-abrev>World Rabbit Sci.</title-abrev>
+      <title-abrev>WORLD RABBIT SCI</title-abrev>
+      <publisher>UNIV POLITECNICA VALENCIA</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.833</impact-factor>
+      <impact-factor-5-years>0.768</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>120</id>
+      <idClass>0</idClass>
+      <issn>0044-5401</issn>
+      <title>ZUCHTUNGSKUNDE</title>
+      <publisher>EUGEN ULMER GMBH CO</publisher>
+      <pub-type>J</pub-type>
+      <language>GERMAN</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <impact-factor>0.355</impact-factor>
+      <impact-factor-5-years>0.275</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>121</id>
+      <idClass>0</idClass>
+      <issn>0167-8809</issn>
+      <title>AGRICULTURE ECOSYSTEMS `AND` ENVIRONMENT</title>
+      <title-abrev>Agric. Ecosyst. Environ.</title-abrev>
+      <title-abrev>AGR ECOSYST ENVIRON</title-abrev>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>ECOLOGY</subject>
+      <subject>ENVIRONMENTAL SCIENCES</subject>
+      <impact-factor>3.564</impact-factor>
+      <impact-factor-5-years>4.233</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>122</id>
+      <idClass>0</idClass>
+      <issn>1459-6067</issn>
+      <title>AGRICULTURAL AND FOOD SCIENCE</title>
+      <title-abrev>Agr. Food Sci.</title-abrev>
+      <title-abrev>AGR FOOD SCI</title-abrev>
+      <publisher>SCIENTIFIC AGRICULTURAL SOC FINLAND</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>FOOD SCIENCE `AND` TECHNOLOGY</subject>
+      <impact-factor>1.588</impact-factor>
+      <impact-factor-5-years>1.296</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>123</id>
+      <idClass>0</idClass>
+      <issn>0002-1482</issn>
+      <title>AGRICULTURAL HISTORY</title>
+      <title-abrev>Agric. Hist.</title-abrev>
+      <title-abrev>AGR HIST</title-abrev>
+      <publisher>AGRICULTURAL HISTORY SOCIETY</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>HISTORY `AND` PHILOSOPHY OF SCIENCE</subject>
+      <impact-factor>0.050</impact-factor>
+      <impact-factor-5-years>0.183</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>124</id>
+      <idClass>0</idClass>
+      <issn>0889-048X</issn>
+      <title>AGRICULTURE AND HUMAN VALUES</title>
+      <title-abrev>Agric. Human Values</title-abrev>
+      <title-abrev>AGR HUM VALUES</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>HISTORY `AND` PHILOSOPHY OF SCIENCE</subject>
+      <impact-factor>2.222</impact-factor>
+      <impact-factor-5-years>2.534</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>125</id>
+      <idClass>0</idClass>
+      <issn>0308-521X</issn>
+      <title>AGRICULTURAL SYSTEMS</title>
+      <title-abrev>Agric. Syst.</title-abrev>
+      <title-abrev>AGR SYST</title-abrev>
+      <publisher>ELSEVIER SCI LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>2.867</impact-factor>
+      <impact-factor-5-years>3.494</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>126</id>
+      <idClass>0</idClass>
+      <issn>1663-7852</issn>
+      <title>Agrarforschung Schweiz</title>
+      <title-abrev>AGRARFORSCH SCHWEIZ+</title-abrev>
+      <publisher>AGRARFORSCHUNG</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.182</impact-factor>
+      <impact-factor-5-years>0.109</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>127</id>
+      <idClass>0</idClass>
+      <issn>1405-3195</issn>
+      <title>AGROCIENCIA</title>
+      <title-abrev>AGROCIENCIA-MEXICO</title-abrev>
+      <publisher>COLEGIO POSTGRADUADOS</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.305</impact-factor>
+      <impact-factor-5-years>0.421</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>128</id>
+      <idClass>0</idClass>
+      <issn>2168-3565</issn>
+      <title>Agroecology and Sustainable Food Systems</title>
+      <title-abrev>Agroecol. Sustain. Food Syst.</title-abrev>
+      <title-abrev>AGROECOL SUST FOOD</title-abrev>
+      <publisher>TAYLOR `AND` FRANCIS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>GREEN `AND` SUSTAINABLE SCIENCE `AND` TECHNOLOGY</subject>
+      <impact-factor>0.926</impact-factor>
+      <impact-factor-5-years>0.935</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>129</id>
+      <idClass>0</idClass>
+      <issn>1836-0939</issn>
+      <title>Animal Production Science</title>
+      <title-abrev>Anim. Prod. Sci.</title-abrev>
+      <title-abrev>ANIM PROD SCI</title-abrev>
+      <publisher>CSIRO PUBLISHING</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.902</impact-factor>
+      <impact-factor-5-years>1.098</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>130</id>
+      <idClass>0</idClass>
+      <issn>0003-4746</issn>
+      <title>ANNALS OF APPLIED BIOLOGY</title>
+      <title-abrev>Ann. Appl. Biol.</title-abrev>
+      <title-abrev>ANN APPL BIOL</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>2.103</impact-factor>
+      <impact-factor-5-years>2.062</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>131</id>
+      <idClass>0</idClass>
+      <issn>2196-5099</issn>
+      <title>BERICHTE UBER LANDWIRTSCHAFT</title>
+      <title-abrev>Ber. Landwirtsch.</title-abrev>
+      <title-abrev>BER LANDWIRTSCH</title-abrev>
+      <publisher>BUNDESMINISTERIUM ERNAHRUNG LANDWIRTSCHAFT</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.265</impact-factor>
+      <impact-factor-5-years>0.282</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>132</id>
+      <idClass>0</idClass>
+      <issn>1981-3163</issn>
+      <title>Bioscience Journal</title>
+      <title-abrev>Biosci. J.</title-abrev>
+      <title-abrev>BIOSCI J</title-abrev>
+      <publisher>UNIV FEDERAL UBERLANDIA</publisher>
+      <pub-type>J</pub-type>
+      <language>PORTUGUESE</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>AGRONOMY</subject>
+      <subject>BIOLOGY</subject>
+      <impact-factor>0.218</impact-factor>
+      <impact-factor-5-years>0.288</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>133</id>
+      <idClass>0</idClass>
+      <issn>1537-5110</issn>
+      <title>BIOSYSTEMS ENGINEERING</title>
+      <title-abrev>Biosyst. Eng.</title-abrev>
+      <title-abrev>BIOSYST ENG</title-abrev>
+      <publisher>ACADEMIC PRESS INC ELSEVIER SCIENCE</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ENGINEERING</subject>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>1.997</impact-factor>
+      <impact-factor-5-years>2.063</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>134</id>
+      <idClass>0</idClass>
+      <issn>1678-4499</issn>
+      <title>BRAGANTIA</title>
+      <publisher>INST AGRONOMICO</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.486</impact-factor>
+   </pub-venue>
+   <pub-venue>
+      <id>135</id>
+      <idClass>0</idClass>
+      <issn>1166-7699</issn>
+      <title>CAHIERS AGRICULTURES</title>
+      <title-abrev>Cah. Agric.</title-abrev>
+      <title-abrev>CAH AGRIC</title-abrev>
+      <publisher>JOHN LIBBEY EUROTEXT LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>FRENCH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.384</impact-factor>
+      <impact-factor-5-years>0.494</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>136</id>
+      <idClass>0</idClass>
+      <issn>0008-0845</issn>
+      <title>CALIFORNIA AGRICULTURE</title>
+      <title-abrev>Calif. Agric.</title-abrev>
+      <title-abrev>CALIF AGR</title-abrev>
+      <publisher>UNIV CALIFORNIA, OAKLAND, DIVISION AGRICULTURE `AND` NATURAL RE</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.846</impact-factor>
+      <impact-factor-5-years>0.966</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>137</id>
+      <idClass>0</idClass>
+      <issn>0718-5839</issn>
+      <title>Chilean Journal of Agricultural Research</title>
+      <title-abrev>Chil. J. Agric. Res.</title-abrev>
+      <title-abrev>CHIL J AGR RES</title-abrev>
+      <publisher>INST INVESTIGACIONES AGROPECUARIAS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.637</impact-factor>
+      <impact-factor-5-years>0.943</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>138</id>
+      <idClass>0</idClass>
+      <issn>1413-7054</issn>
+      <title>CIENCIA E AGROTECNOLOGIA</title>
+      <title-abrev>Cienc. Agrotec.</title-abrev>
+      <title-abrev>CIENC AGROTEC</title-abrev>
+      <publisher>UNIV FEDERAL LAVRAS-UFLA</publisher>
+      <pub-type>J</pub-type>
+      <language>PORTUGUESE</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.701</impact-factor>
+      <impact-factor-5-years>0.937</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>139</id>
+      <idClass>0</idClass>
+      <issn>0718-1620</issn>
+      <title>Ciencia e Investigacion Agraria</title>
+      <title-abrev>Cienc. Investig. Agrar.</title-abrev>
+      <title-abrev>CIENC INVESTIG AGRAR</title-abrev>
+      <publisher>PONTIFICIA UNIV CATOLICA CHILE, FAC AGRONOMIA INGENIERIA FO</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.404</impact-factor>
+      <impact-factor-5-years>0.464</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>140</id>
+      <idClass>0</idClass>
+      <issn>0168-1699</issn>
+      <title>COMPUTERS AND ELECTRONICS IN AGRICULTURE</title>
+      <title-abrev>Comput. Electron. Agric.</title-abrev>
+      <title-abrev>COMPUT ELECTRON AGR</title-abrev>
+      <publisher>ELSEVIER SCI LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS</subject>
+      <impact-factor>1.892</impact-factor>
+      <impact-factor-5-years>2.365</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>141</id>
+      <idClass>0</idClass>
+      <issn>1836-0947</issn>
+      <title>Crop `AND` Pasture Science</title>
+      <title-abrev>Crop Pasture Sci.</title-abrev>
+      <title-abrev>CROP PASTURE SCI</title-abrev>
+      <publisher>CSIRO PUBLISHING</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>1.488</impact-factor>
+      <impact-factor-5-years>1.587</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>142</id>
+      <idClass>0</idClass>
+      <issn>0122-1450</issn>
+      <title>Cuadernos de Desarrollo Rural</title>
+      <title-abrev>Cuad. Desarro. Rural</title-abrev>
+      <publisher>PONTIFICIA UNIV JAVERIANA, FAC ESTUDIOS AMBIENTALES `AND` RURAL</publisher>
+      <pub-type>J</pub-type>
+      <language>SPANISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.140</impact-factor>
+      <impact-factor-5-years>0.208</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>143</id>
+      <idClass>0</idClass>
+      <issn>1744-6961</issn>
+      <title>GRASSLAND SCIENCE</title>
+      <title-abrev>Grassl. Sci.</title-abrev>
+      <title-abrev>GRASSL SCI</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.820</impact-factor>
+      <impact-factor-5-years>0.802</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>144</id>
+      <idClass>0</idClass>
+      <issn>1670-567X</issn>
+      <title>Icelandic Agricultural Sciences</title>
+      <title-abrev>Iceland. Agric. Sci.</title-abrev>
+      <title-abrev>ICELAND AGR SCI</title-abrev>
+      <publisher>RANNSOKNASTOFNUN LANDBUNADARINS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.353</impact-factor>
+      <impact-factor-5-years>0.878</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>145</id>
+      <idClass>0</idClass>
+      <issn>0019-5022</issn>
+      <title>INDIAN JOURNAL OF AGRICULTURAL SCIENCES</title>
+      <title-abrev>Indian J. Agric. Sci.</title-abrev>
+      <title-abrev>INDIAN J AGR SCI</title-abrev>
+      <publisher>INDIAN COUNC AGRICULTURAL RES</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.172</impact-factor>
+      <impact-factor-5-years>0.254</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>146</id>
+      <idClass>0</idClass>
+      <issn>1473-5903</issn>
+      <title>International Journal of Agricultural Sustainability</title>
+      <title-abrev>Int. J. Agric. Sustain.</title-abrev>
+      <title-abrev>INT J AGR SUSTAIN</title-abrev>
+      <publisher>TAYLOR `AND` FRANCIS LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>GREEN `AND` SUSTAINABLE SCIENCE `AND` TECHNOLOGY</subject>
+      <impact-factor>1.538</impact-factor>
+      <impact-factor-5-years>2.283</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>147</id>
+      <idClass>0</idClass>
+      <issn>1560-8530</issn>
+      <title>INTERNATIONAL JOURNAL OF AGRICULTURE AND BIOLOGY</title>
+      <title-abrev>Int. J. Agric. Biol.</title-abrev>
+      <title-abrev>INT J AGRIC BIOL</title-abrev>
+      <publisher>FRIENDS SCIENCE PUBL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.758</impact-factor>
+      <impact-factor-5-years>0.826</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>148</id>
+      <idClass>0</idClass>
+      <issn>0791-6833</issn>
+      <title>IRISH JOURNAL OF AGRICULTURAL AND FOOD RESEARCH</title>
+      <title-abrev>Irish J. Agr. Food Res.</title-abrev>
+      <title-abrev>IRISH J AGR FOOD RES</title-abrev>
+      <publisher>TEAGASC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>FOOD SCIENCE `AND` TECHNOLOGY</subject>
+      <impact-factor>0.706</impact-factor>
+      <impact-factor-5-years>0.932</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>149</id>
+      <idClass>0</idClass>
+      <issn>1187-7863</issn>
+      <title>JOURNAL OF AGRICULTURAL `AND` ENVIRONMENTAL ETHICS</title>
+      <title-abrev>J. Agric. Environ. Ethics</title-abrev>
+      <title-abrev>J AGR ENVIRON ETHIC</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>ENVIRONMENTAL SCIENCES</subject>
+      <subject>HISTORY `AND` PHILOSOPHY OF SCIENCE</subject>
+      <impact-factor>1.188</impact-factor>
+      <impact-factor-5-years>1.266</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>150</id>
+      <idClass>0</idClass>
+      <issn>0021-8561</issn>
+      <title>JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY</title>
+      <title-abrev>J. Agric. Food Chem.</title-abrev>
+      <title-abrev>J AGR FOOD CHEM</title-abrev>
+      <publisher>AMER CHEMICAL SOC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>CHEMISTRY, APPLIED</subject>
+      <subject>FOOD SCIENCE `AND` TECHNOLOGY</subject>
+      <impact-factor>2.857</impact-factor>
+      <impact-factor-5-years>3.308</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>151</id>
+      <idClass>0</idClass>
+      <issn>1680-7073</issn>
+      <title>Journal of Agricultural Science and Technology</title>
+      <title-abrev>J. Agric. Sci. Technol.</title-abrev>
+      <title-abrev>J AGR SCI TECH-IRAN</title-abrev>
+      <publisher>TARBIAT MODARES UNIV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.816</impact-factor>
+      <impact-factor-5-years>0.971</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>152</id>
+      <idClass>0</idClass>
+      <issn>0021-8596</issn>
+      <title>JOURNAL OF AGRICULTURAL SCIENCE</title>
+      <title-abrev>J. Agric. Sci.</title-abrev>
+      <title-abrev>J AGR SCI-CAMBRIDGE</title-abrev>
+      <publisher>CAMBRIDGE UNIV PRESS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>1.103</impact-factor>
+      <impact-factor-5-years>1.692</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>153</id>
+      <idClass>0</idClass>
+      <issn>0021-8588</issn>
+      <title>JOURNAL OF AGRICULTURAL METEOROLOGY</title>
+      <title-abrev>J. Agric. Meteorol.</title-abrev>
+      <title-abrev>J AGRIC METEOROL</title-abrev>
+      <publisher>SOC AGRICULTURAL METEOROLOGY JAPAN</publisher>
+      <pub-type>J</pub-type>
+      <language>JAPANESE</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>METEOROLOGY `AND` ATMOSPHERIC SCIENCES</subject>
+      <impact-factor>0.467</impact-factor>
+   </pub-venue>
+   <pub-venue>
+      <id>154</id>
+      <idClass>0</idClass>
+      <issn>1018-7081</issn>
+      <title>Journal of Animal and Plant Sciences</title>
+      <title-abrev>J. Anim. Plant Sci.</title-abrev>
+      <title-abrev>J ANIM PLANT SCI</title-abrev>
+      <publisher>PAKISTAN AGRICULTURAL SCIENTISTS FORUM</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>VETERINARY SCIENCES</subject>
+      <impact-factor>0.422</impact-factor>
+      <impact-factor-5-years>0.623</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>155</id>
+      <idClass>0</idClass>
+      <issn>0023-6152</issn>
+      <title>JOURNAL OF THE FACULTY OF AGRICULTURE KYUSHU UNIVERSITY</title>
+      <title-abrev>J. Fac. Agric. Kyushu Univ.</title-abrev>
+      <title-abrev>J FAC AGR KYUSHU U</title-abrev>
+      <publisher>KYUSHU UNIV, FACULTY AGRICULTURAL PUBLICATIONS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.216</impact-factor>
+      <impact-factor-5-years>0.184</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>156</id>
+      <idClass>0</idClass>
+      <issn>2095-3119</issn>
+      <title>Journal of Integrative Agriculture</title>
+      <title-abrev>J. Integr. Agric.</title-abrev>
+      <title-abrev>J INTEGR AGR</title-abrev>
+      <publisher>ELSEVIER SCI LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.724</impact-factor>
+      <impact-factor-5-years>0.867</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>157</id>
+      <idClass>0</idClass>
+      <issn>1861-3829</issn>
+      <title>Journal of Plant Diseases and Protection</title>
+      <title-abrev>J. Plant Dis. Prot.</title-abrev>
+      <title-abrev>J PLANT DIS PROTECT</title-abrev>
+      <publisher>EUGEN ULMER GMBH CO</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <impact-factor>0.477</impact-factor>
+      <impact-factor-5-years>0.533</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>158</id>
+      <idClass>0</idClass>
+      <issn>0022-5142</issn>
+      <title>JOURNAL OF THE SCIENCE OF FOOD AND AGRICULTURE</title>
+      <title-abrev>J. Sci. Food Agric.</title-abrev>
+      <title-abrev>J SCI FOOD AGR</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>CHEMISTRY, APPLIED</subject>
+      <subject>FOOD SCIENCE `AND` TECHNOLOGY</subject>
+      <impact-factor>2.076</impact-factor>
+      <impact-factor-5-years>2.212</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>159</id>
+      <idClass>0</idClass>
+      <issn>0021-3551</issn>
+      <title>JARQ-JAPAN AGRICULTURAL RESEARCH QUARTERLY</title>
+      <title-abrev>Jarq - Jpn. Agric. Res. Q.</title-abrev>
+      <title-abrev>JARQ-JPN AGR RES Q</title-abrev>
+      <publisher>JAPAN INT RESEARCH CENTER AGRICULTURAL SCIENCES</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.453</impact-factor>
+      <impact-factor-5-years>0.546</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>160</id>
+      <idClass>0</idClass>
+      <issn>0458-6859</issn>
+      <title>Landbauforschung</title>
+      <title-abrev>LANDBAUFORSCHUNG-GER</title-abrev>
+      <publisher>JOHANN HEINRICH VON THUNEN INST-VTI</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.435</impact-factor>
+      <impact-factor-5-years>0.481</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>161</id>
+      <idClass>0</idClass>
+      <issn>1594-5685</issn>
+      <title>New Medit</title>
+      <publisher>EDIZIONI DEDALO S R L</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.525</impact-factor>
+      <impact-factor-5-years>0.526</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>162</id>
+      <idClass>0</idClass>
+      <issn>0028-8233</issn>
+      <title>NEW ZEALAND JOURNAL OF AGRICULTURAL RESEARCH</title>
+      <title-abrev>N. Z. J. Agric. Res.</title-abrev>
+      <title-abrev>NEW ZEAL J AGR RES</title-abrev>
+      <publisher>TAYLOR `AND` FRANCIS LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>1.231</impact-factor>
+      <impact-factor-5-years>1.194</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>163</id>
+      <idClass>0</idClass>
+      <issn>1573-5214</issn>
+      <title>NJAS-WAGENINGEN JOURNAL OF LIFE SCIENCES</title>
+      <title-abrev>NJAS-Wagen. J. Life Sci.</title-abrev>
+      <title-abrev>NJAS-WAGEN J LIFE SC</title-abrev>
+      <publisher>ROYAL NETHERLANDS SOC AGR SCI</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.635</impact-factor>
+      <impact-factor-5-years>1.389</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>164</id>
+      <idClass>0</idClass>
+      <issn>0030-7270</issn>
+      <title>OUTLOOK ON AGRICULTURE</title>
+      <title-abrev>Outlook Agric.</title-abrev>
+      <title-abrev>OUTLOOK AGR</title-abrev>
+      <publisher>I P PUBLISHING LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.437</impact-factor>
+      <impact-factor-5-years>0.581</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>165</id>
+      <idClass>0</idClass>
+      <issn>0552-9034</issn>
+      <title>PAKISTAN JOURNAL OF AGRICULTURAL SCIENCES</title>
+      <title-abrev>Pak. J. Agric. Sci.</title-abrev>
+      <title-abrev>PAK J AGR SCI</title-abrev>
+      <publisher>UNIV AGRICULTURE, FAC VETERINARY SCIENCE</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.597</impact-factor>
+      <impact-factor-5-years>0.533</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>166</id>
+      <idClass>0</idClass>
+      <issn>0100-204X</issn>
+      <title>PESQUISA AGROPECUARIA BRASILEIRA</title>
+      <title-abrev>Pesqui. Agropecu. Bras.</title-abrev>
+      <title-abrev>PESQUI AGROPECU BRAS</title-abrev>
+      <publisher>EMPRESA BRASIL PESQ AGROPEC</publisher>
+      <pub-type>J</pub-type>
+      <language>PORTUGUESE</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.564</impact-factor>
+      <impact-factor-5-years>0.822</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>167</id>
+      <idClass>0</idClass>
+      <issn>0031-7454</issn>
+      <title>PHILIPPINE AGRICULTURAL SCIENTIST</title>
+      <title-abrev>Philipp. Agric. Sci.</title-abrev>
+      <title-abrev>PHILIPP AGRIC SCI</title-abrev>
+      <publisher>UNIV PHILIPPINES LOS BANOS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.266</impact-factor>
+      <impact-factor-5-years>0.335</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>168</id>
+      <idClass>0</idClass>
+      <issn>1598-2254</issn>
+      <title>Plant Pathology Journal</title>
+      <title-abrev>Plant Pathol. J.</title-abrev>
+      <title-abrev>PLANT PATHOLOGY J</title-abrev>
+      <publisher>KOREAN SOC PLANT PATHOLOGY</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <impact-factor>0.920</impact-factor>
+      <impact-factor-5-years>0.736</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>169</id>
+      <idClass>0</idClass>
+      <issn>1385-2256</issn>
+      <title>PRECISION AGRICULTURE</title>
+      <title-abrev>Precis. Agric.</title-abrev>
+      <title-abrev>PRECIS AGRIC</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>1.675</impact-factor>
+      <impact-factor-5-years>2.118</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>170</id>
+      <idClass>0</idClass>
+      <issn>1742-1705</issn>
+      <title>RENEWABLE AGRICULTURE AND FOOD SYSTEMS</title>
+      <title-abrev>Renew. Agr. Food Syst.</title-abrev>
+      <title-abrev>RENEW AGR FOOD SYST</title-abrev>
+      <publisher>CAMBRIDGE UNIV PRESS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>1.435</impact-factor>
+      <impact-factor-5-years>1.734</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>171</id>
+      <idClass>0</idClass>
+      <issn>1806-6690</issn>
+      <title>Revista Ciencia Agronomica</title>
+      <title-abrev>Rev. Cienc. Agron.</title-abrev>
+      <title-abrev>REV CIENC AGRON</title-abrev>
+      <publisher>UNIV FEDERAL CEARA, DEPT GEOL</publisher>
+      <pub-type>J</pub-type>
+      <language>PORTUGUESE</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.498</impact-factor>
+      <impact-factor-5-years>0.611</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>172</id>
+      <idClass>0</idClass>
+      <issn>1853-8665</issn>
+      <title>REVISTA DE LA FACULTAD DE CIENCIAS AGRARIAS</title>
+      <title-abrev>Rev. Fac. Cienc. Agrar. Univ Nac Cuyo</title-abrev>
+      <title-abrev>REV FAC CIENC AGRAR</title-abrev>
+      <publisher>UNIV NACIONAL CUYO, FAC CIENCIAS AGRARIAS</publisher>
+      <pub-type>J</pub-type>
+      <language>SPANISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.663</impact-factor>
+      <impact-factor-5-years>0.478</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>173</id>
+      <idClass>0</idClass>
+      <issn>0103-9016</issn>
+      <title>SCIENTIA AGRICOLA</title>
+      <title-abrev>Sci. Agric.</title-abrev>
+      <title-abrev>SCI AGR</title-abrev>
+      <publisher>UNIV SAO PAOLO</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.954</impact-factor>
+      <impact-factor-5-years>1.052</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>174</id>
+      <idClass>0</idClass>
+      <issn>1676-546X</issn>
+      <title>Semina-Ciencias Agrarias</title>
+      <title-abrev>Semin.-Cienc. Agrar.</title-abrev>
+      <title-abrev>SEMIN-CIENC AGRAR</title-abrev>
+      <publisher>UNIV ESTADUAL LONDRINA</publisher>
+      <pub-type>J</pub-type>
+      <language>PORTUGUESE</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.229</impact-factor>
+      <impact-factor-5-years>0.299</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>175</id>
+      <idClass>0</idClass>
+      <issn>1695-971X</issn>
+      <title>SPANISH JOURNAL OF AGRICULTURAL RESEARCH</title>
+      <title-abrev>Span. J. Agric. Res.</title-abrev>
+      <title-abrev>SPAN J AGRIC RES</title-abrev>
+      <publisher>SPANISH NATL INST AGRICULTURAL `AND` FOOD RESEARCH `AND` TECHNOLO</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.760</impact-factor>
+      <impact-factor-5-years>0.873</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>176</id>
+      <idClass>0</idClass>
+      <issn>1300-7580</issn>
+      <title>Tarim Bilimleri Dergisi-Journal of Agricultural Sciences</title>
+      <title-abrev>Tarim Bilim. Derg.</title-abrev>
+      <title-abrev>TARIM BILIM DERG</title-abrev>
+      <publisher>ANKARA UNIV, FAC AGR</publisher>
+      <pub-type>J</pub-type>
+      <language>TURKISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.408</impact-factor>
+      <impact-factor-5-years>0.471</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>177</id>
+      <idClass>0</idClass>
+      <issn>1392-3196</issn>
+      <title>Zemdirbyste-Agriculture</title>
+      <title-abrev>Zemdirbyste</title-abrev>
+      <publisher>LITHUANIAN RESEARCH CENTRE AGRICULTURE `AND` FORESTRY</publisher>
+      <pub-type>J</pub-type>
+      <language>LITHUANIAN</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <impact-factor>0.579</impact-factor>
+      <impact-factor-5-years>0.652</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>178</id>
+      <idClass>0</idClass>
+      <issn>0906-4710</issn>
+      <title>ACTA AGRICULTURAE SCANDINAVICA SECTION B-SOIL AND PLANT SCIENCE</title>
+      <title-abrev>Acta Agric. Scand. Sect. B-Soil Plant Sci.</title-abrev>
+      <title-abrev>ACTA AGR SCAND B-S P</title-abrev>
+      <publisher>TAYLOR `AND` FRANCIS AS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>SOIL SCIENCE</subject>
+      <impact-factor>0.649</impact-factor>
+      <impact-factor-5-years>0.764</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>179</id>
+      <idClass>0</idClass>
+      <issn>1807-8621</issn>
+      <title>ACTA SCIENTIARUM-AGRONOMY</title>
+      <title-abrev>Acta Sci.-Agron.</title-abrev>
+      <title-abrev>ACTA SCI-AGRON</title-abrev>
+      <publisher>UNIV ESTADUAL MARINGA, PRO-REITORIA PESQUISA POS-GRADUACAO</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>1.317</impact-factor>
+      <impact-factor-5-years>0.884</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>180</id>
+      <idClass>0</idClass>
+      <issn>0065-2113</issn>
+      <title>Advances in Agronomy</title>
+      <title-abrev>Adv. Agron.</title-abrev>
+      <title-abrev>ADV AGRON</title-abrev>
+      <publisher>ACADEMIC PRESS INC ELSEVIER SCIENCE</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>4.381</impact-factor>
+      <impact-factor-5-years>7.234</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>181</id>
+      <idClass>0</idClass>
+      <issn>0168-1923</issn>
+      <title>AGRICULTURAL AND FOREST METEOROLOGY</title>
+      <title-abrev>Agric. For. Meteorol.</title-abrev>
+      <title-abrev>AGR FOREST METEOROL</title-abrev>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRONOMY</subject>
+      <subject>FORESTRY</subject>
+      <subject>METEOROLOGY `AND` ATMOSPHERIC SCIENCES</subject>
+      <impact-factor>4.461</impact-factor>
+      <impact-factor-5-years>4.839</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>182</id>
+      <idClass>0</idClass>
+      <issn>0378-3774</issn>
+      <title>AGRICULTURAL WATER MANAGEMENT</title>
+      <title-abrev>Agric. Water Manage.</title-abrev>
+      <title-abrev>AGR WATER MANAGE</title-abrev>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>WATER RESOURCES</subject>
+      <impact-factor>2.603</impact-factor>
+      <impact-factor-5-years>3.370</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>183</id>
+      <idClass>0</idClass>
+      <issn>0167-4366</issn>
+      <title>AGROFORESTRY SYSTEMS</title>
+      <title-abrev>Agrofor. Syst.</title-abrev>
+      <title-abrev>AGROFOREST SYST</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>FORESTRY</subject>
+      <impact-factor>0.910</impact-factor>
+      <impact-factor-5-years>1.299</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>184</id>
+      <idClass>0</idClass>
+      <issn>0002-1962</issn>
+      <title>AGRONOMY JOURNAL</title>
+      <title-abrev>Agron. J.</title-abrev>
+      <title-abrev>AGRON J</title-abrev>
+      <publisher>AMER SOC AGRONOMY</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>1.464</impact-factor>
+      <impact-factor-5-years>1.860</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>185</id>
+      <idClass>0</idClass>
+      <issn>1774-0746</issn>
+      <title>Agronomy for Sustainable Development</title>
+      <title-abrev>Agron. Sustain. Dev.</title-abrev>
+      <title-abrev>AGRON SUSTAIN DEV</title-abrev>
+      <publisher>SPRINGER FRANCE</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRONOMY</subject>
+      <subject>GREEN `AND` SUSTAINABLE SCIENCE `AND` TECHNOLOGY</subject>
+      <impact-factor>4.141</impact-factor>
+      <impact-factor-5-years>5.200</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>186</id>
+      <idClass>0</idClass>
+      <issn>0971-4693</issn>
+      <title>ALLELOPATHY JOURNAL</title>
+      <title-abrev>Allelopathy J.</title-abrev>
+      <title-abrev>ALLELOPATHY J</title-abrev>
+      <publisher>ALLELOPATHY JOURNAL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.533</impact-factor>
+      <impact-factor-5-years>0.734</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>187</id>
+      <idClass>0</idClass>
+      <issn>1099-209X</issn>
+      <title>AMERICAN JOURNAL OF POTATO RESEARCH</title>
+      <title-abrev>Am. J. Potato Res.</title-abrev>
+      <title-abrev>AM J POTATO RES</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>1.159</impact-factor>
+      <impact-factor-5-years>1.206</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>188</id>
+      <idClass>0</idClass>
+      <issn>0365-0340</issn>
+      <title>Archives of Agronomy and Soil Science</title>
+      <title-abrev>Arch. Agron. Soil Sci.</title-abrev>
+      <title-abrev>ARCH AGRON SOIL SCI</title-abrev>
+      <publisher>TAYLOR `AND` FRANCIS LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRONOMY</subject>
+      <subject>SOIL SCIENCE</subject>
+      <impact-factor>1.118</impact-factor>
+   </pub-venue>
+   <pub-venue>
+      <id>189</id>
+      <idClass>0</idClass>
+      <issn>0144-8765</issn>
+      <title>BIOLOGICAL AGRICULTURE `AND` HORTICULTURE</title>
+      <title-abrev>Biol. Agric. Hortic.</title-abrev>
+      <title-abrev>BIOL AGRIC HORTIC</title-abrev>
+      <publisher>TAYLOR `AND` FRANCIS LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>HORTICULTURE</subject>
+      <impact-factor>0.765</impact-factor>
+      <impact-factor-5-years>0.787</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>190</id>
+      <idClass>0</idClass>
+      <issn>1981-3163</issn>
+      <title>Bioscience Journal</title>
+      <title-abrev>Biosci. J.</title-abrev>
+      <title-abrev>BIOSCI J</title-abrev>
+      <publisher>UNIV FEDERAL UBERLANDIA</publisher>
+      <pub-type>J</pub-type>
+      <language>PORTUGUESE</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>AGRONOMY</subject>
+      <subject>BIOLOGY</subject>
+      <impact-factor>0.218</impact-factor>
+      <impact-factor-5-years>0.288</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>191</id>
+      <idClass>0</idClass>
+      <issn>1370-6233</issn>
+      <title>BIOTECHNOLOGIE AGRONOMIE SOCIETE ET ENVIRONNEMENT</title>
+      <title-abrev>Biotechnol. Agron. Soc.</title-abrev>
+      <title-abrev>BIOTECHNOL AGRON SOC</title-abrev>
+      <publisher>FAC UNIV SCIENCES AGRONOMIQUES GEMBLOUX</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRONOMY</subject>
+      <subject>ENVIRONMENTAL SCIENCES</subject>
+      <impact-factor>0.487</impact-factor>
+      <impact-factor-5-years>0.676</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>192</id>
+      <idClass>0</idClass>
+      <issn>1344-7610</issn>
+      <title>BREEDING SCIENCE</title>
+      <title-abrev>Breed. Sci.</title-abrev>
+      <title-abrev>BREEDING SCI</title-abrev>
+      <publisher>JAPANESE SOC BREEDING</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <impact-factor>1.543</impact-factor>
+      <impact-factor-5-years>1.698</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>193</id>
+      <idClass>0</idClass>
+      <issn>1166-7699</issn>
+      <title>CAHIERS AGRICULTURES</title>
+      <title-abrev>Cah. Agric.</title-abrev>
+      <title-abrev>CAH AGRIC</title-abrev>
+      <publisher>JOHN LIBBEY EUROTEXT LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>FRENCH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.384</impact-factor>
+      <impact-factor-5-years>0.494</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>194</id>
+      <idClass>0</idClass>
+      <issn>0008-4220</issn>
+      <title>CANADIAN JOURNAL OF PLANT SCIENCE</title>
+      <title-abrev>Can. J. Plant Sci.</title-abrev>
+      <title-abrev>CAN J PLANT SCI</title-abrev>
+      <publisher>AGRICULTURAL INST CANADA</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <impact-factor>0.727</impact-factor>
+      <impact-factor-5-years>0.961</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>195</id>
+      <idClass>0</idClass>
+      <issn>0133-3720</issn>
+      <title>CEREAL RESEARCH COMMUNICATIONS</title>
+      <title-abrev>Cereal Res. Commun.</title-abrev>
+      <title-abrev>CEREAL RES COMMUN</title-abrev>
+      <publisher>AKADEMIAI KIADO RT</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.528</impact-factor>
+      <impact-factor-5-years>0.567</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>196</id>
+      <idClass>0</idClass>
+      <issn>0718-5839</issn>
+      <title>Chilean Journal of Agricultural Research</title>
+      <title-abrev>Chil. J. Agric. Res.</title-abrev>
+      <title-abrev>CHIL J AGR RES</title-abrev>
+      <publisher>INST INVESTIGACIONES AGROPECUARIAS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.637</impact-factor>
+      <impact-factor-5-years>0.943</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>197</id>
+      <idClass>0</idClass>
+      <issn>0103-8478</issn>
+      <title>CIENCIA RURAL</title>
+      <title-abrev>Cienc. Rural</title-abrev>
+      <publisher>UNIV FEDERAL SANTA MARIA</publisher>
+      <pub-type>J</pub-type>
+      <language>PORTUGUESE</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.376</impact-factor>
+      <impact-factor-5-years>0.490</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>198</id>
+      <idClass>0</idClass>
+      <issn>0010-3624</issn>
+      <title>COMMUNICATIONS IN SOIL SCIENCE AND PLANT ANALYSIS</title>
+      <title-abrev>Commun. Soil Sci. Plant Anal.</title-abrev>
+      <title-abrev>COMMUN SOIL SCI PLAN</title-abrev>
+      <publisher>TAYLOR `AND` FRANCIS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <subject>CHEMISTRY, ANALYTICAL</subject>
+      <subject>SOIL SCIENCE</subject>
+      <impact-factor>0.529</impact-factor>
+      <impact-factor-5-years>0.622</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>199</id>
+      <idClass>0</idClass>
+      <issn>1984-7033</issn>
+      <title>Crop Breeding and Applied Biotechnology</title>
+      <title-abrev>Crop. Breed. Appl. Biotechnol.</title-abrev>
+      <title-abrev>CROP BREED APPL BIOT</title-abrev>
+      <publisher>BRAZILIAN SOC PLANT BREEDING</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>BIOTECHNOLOGY `AND` APPLIED MICROBIOLOGY</subject>
+      <impact-factor>0.946</impact-factor>
+      <impact-factor-5-years>0.896</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>200</id>
+      <idClass>0</idClass>
+      <issn>0261-2194</issn>
+      <title>CROP PROTECTION</title>
+      <title-abrev>Crop Prot.</title-abrev>
+      <title-abrev>CROP PROT</title-abrev>
+      <publisher>ELSEVIER SCI LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>1.652</impact-factor>
+      <impact-factor-5-years>1.790</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>201</id>
+      <idClass>0</idClass>
+      <issn>0011-183X</issn>
+      <title>CROP SCIENCE</title>
+      <title-abrev>Crop Sci.</title-abrev>
+      <title-abrev>CROP SCI</title-abrev>
+      <publisher>CROP SCIENCE SOC AMER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>1.550</impact-factor>
+      <impact-factor-5-years>1.758</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>202</id>
+      <idClass>0</idClass>
+      <issn>1212-1975</issn>
+      <title>Czech Journal of Genetics and Plant Breeding</title>
+      <title-abrev>Czech J. Genet. Plant Breed.</title-abrev>
+      <title-abrev>CZECH J GENET PLANT</title-abrev>
+      <publisher>CZECH ACADEMY AGRICULTURAL SCIENCES</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <impact-factor>0.476</impact-factor>
+      <impact-factor-5-years>0.728</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>203</id>
+      <idClass>0</idClass>
+      <issn>2079-052X</issn>
+      <title>Emirates Journal of Food and Agriculture</title>
+      <title-abrev>Emir. J. Food Agric.</title-abrev>
+      <title-abrev>EMIR J FOOD AGR</title-abrev>
+      <publisher>UNITED ARAB EMIRATES UNIV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>FOOD SCIENCE `AND` TECHNOLOGY</subject>
+      <impact-factor>0.623</impact-factor>
+   </pub-venue>
+   <pub-venue>
+      <id>204</id>
+      <idClass>0</idClass>
+      <issn>0014-2336</issn>
+      <title>EUPHYTICA</title>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <subject>HORTICULTURE</subject>
+      <impact-factor>1.618</impact-factor>
+      <impact-factor-5-years>1.866</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>205</id>
+      <idClass>0</idClass>
+      <issn>1161-0301</issn>
+      <title>EUROPEAN JOURNAL OF AGRONOMY</title>
+      <title-abrev>Eur. J. Agron.</title-abrev>
+      <title-abrev>EUR J AGRON</title-abrev>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>3.186</impact-factor>
+      <impact-factor-5-years>3.877</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>206</id>
+      <idClass>0</idClass>
+      <issn>0929-1873</issn>
+      <title>EUROPEAN JOURNAL OF PLANT PATHOLOGY</title>
+      <title-abrev>Eur. J. Plant Pathol.</title-abrev>
+      <title-abrev>EUR J PLANT PATHOL</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <subject>HORTICULTURE</subject>
+      <impact-factor>1.494</impact-factor>
+      <impact-factor-5-years>1.698</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>207</id>
+      <idClass>0</idClass>
+      <issn>0014-4797</issn>
+      <title>EXPERIMENTAL AGRICULTURE</title>
+      <title-abrev>Exp. Agric.</title-abrev>
+      <title-abrev>EXP AGR</title-abrev>
+      <publisher>CAMBRIDGE UNIV PRESS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.973</impact-factor>
+      <impact-factor-5-years>1.294</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>208</id>
+      <idClass>0</idClass>
+      <issn>0378-4290</issn>
+      <title>FIELD CROPS RESEARCH</title>
+      <title-abrev>Field Crop. Res.</title-abrev>
+      <title-abrev>FIELD CROP RES</title-abrev>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>2.927</impact-factor>
+      <impact-factor-5-years>3.541</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>209</id>
+      <idClass>0</idClass>
+      <issn>1757-1693</issn>
+      <title>Global Change Biology Bioenergy</title>
+      <title-abrev>GCB Bioenergy</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>ENERGY `AND` FUELS</subject>
+      <impact-factor>6.151</impact-factor>
+      <impact-factor-5-years>6.415</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>210</id>
+      <idClass>0</idClass>
+      <issn>0925-9864</issn>
+      <title>GENETIC RESOURCES AND CROP EVOLUTION</title>
+      <title-abrev>Genet. Resour. Crop Evol.</title-abrev>
+      <title-abrev>GENET RESOUR CROP EV</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <impact-factor>1.258</impact-factor>
+      <impact-factor-5-years>1.477</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>211</id>
+      <idClass>0</idClass>
+      <issn>0534-0012</issn>
+      <title>Genetika-Belgrade</title>
+      <publisher>SERBIAN GENETICS SOC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>GENETICS `AND` HEREDITY</subject>
+      <impact-factor>0.308</impact-factor>
+      <impact-factor-5-years>0.341</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>212</id>
+      <idClass>0</idClass>
+      <issn>0367-4223</issn>
+      <title>Gesunde Pflanzen</title>
+      <title-abrev>Gesunde Pflanz.</title-abrev>
+      <title-abrev>GESUNDE PFLANZ</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>GERMAN</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.306</impact-factor>
+      <impact-factor-5-years>0.414</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>213</id>
+      <idClass>0</idClass>
+      <issn>0142-5242</issn>
+      <title>GRASS AND FORAGE SCIENCE</title>
+      <title-abrev>Grass Forage Sci.</title-abrev>
+      <title-abrev>GRASS FORAGE SCI</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>1.617</impact-factor>
+      <impact-factor-5-years>1.871</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>214</id>
+      <idClass>0</idClass>
+      <issn>1744-6961</issn>
+      <title>GRASSLAND SCIENCE</title>
+      <title-abrev>Grassl. Sci.</title-abrev>
+      <title-abrev>GRASSL SCI</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURE, MULTIDISCIPLINARY</subject>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.820</impact-factor>
+      <impact-factor-5-years>0.802</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>215</id>
+      <idClass>0</idClass>
+      <issn>0926-6690</issn>
+      <title>INDUSTRIAL CROPS AND PRODUCTS</title>
+      <title-abrev>Ind. Crop. Prod.</title-abrev>
+      <title-abrev>IND CROP PROD</title-abrev>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ENGINEERING</subject>
+      <subject>AGRONOMY</subject>
+      <impact-factor>3.449</impact-factor>
+      <impact-factor-5-years>3.554</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>216</id>
+      <idClass>0</idClass>
+      <issn>0236-8722</issn>
+      <title>International Agrophysics</title>
+      <title-abrev>Int. Agrophys.</title-abrev>
+      <title-abrev>INT AGROPHYS</title-abrev>
+      <publisher>DE GRUYTER OPEN LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>1.067</impact-factor>
+      <impact-factor-5-years>1.070</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>217</id>
+      <idClass>0</idClass>
+      <issn>1735-6814</issn>
+      <title>International Journal of Plant Production</title>
+      <title-abrev>Int. J. Plant Prod.</title-abrev>
+      <title-abrev>INT J PLANT PROD</title-abrev>
+      <publisher>GORGAN UNIV AGRICULTURAL SCIENCES `AND` NATURAL RESOURCES</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>1.069</impact-factor>
+      <impact-factor-5-years>1.087</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>218</id>
+      <idClass>0</idClass>
+      <issn>0020-8841</issn>
+      <title>INTERNATIONAL SUGAR JOURNAL</title>
+      <title-abrev>Int. Sugar J.</title-abrev>
+      <title-abrev>INT SUGAR J</title-abrev>
+      <publisher>INT SUGAR JOURNAL LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>FOOD SCIENCE `AND` TECHNOLOGY</subject>
+      <impact-factor>0.181</impact-factor>
+      <impact-factor-5-years>0.206</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>219</id>
+      <idClass>0</idClass>
+      <issn>1531-0353</issn>
+      <title>IRRIGATION AND DRAINAGE</title>
+      <title-abrev>Irrig. Drain.</title-abrev>
+      <title-abrev>IRRIG DRAIN</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>WATER RESOURCES</subject>
+      <impact-factor>0.565</impact-factor>
+      <impact-factor-5-years>0.723</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>220</id>
+      <idClass>0</idClass>
+      <issn>0342-7188</issn>
+      <title>IRRIGATION SCIENCE</title>
+      <title-abrev>Irrig. Sci.</title-abrev>
+      <title-abrev>IRRIGATION SCI</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>WATER RESOURCES</subject>
+      <impact-factor>1.948</impact-factor>
+      <impact-factor-5-years>2.280</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>221</id>
+      <idClass>0</idClass>
+      <issn>2038-5625</issn>
+      <title>Italian Journal of Agrometeorology-Rivista Italiana di Agrometeorologia</title>
+      <title-abrev>Ital. J. Agrometeorol.-Riv. Ital. Agrometeorol.</title-abrev>
+      <title-abrev>ITAL J AGROMETEOROL</title-abrev>
+      <publisher>PATRON EDITORE S R L</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>ENVIRONMENTAL SCIENCES</subject>
+      <subject>METEOROLOGY `AND` ATMOSPHERIC SCIENCES</subject>
+      <impact-factor>0.290</impact-factor>
+      <impact-factor-5-years>0.410</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>222</id>
+      <idClass>0</idClass>
+      <issn>1125-4718</issn>
+      <title>Italian Journal of Agronomy</title>
+      <title-abrev>Ital. J. Agron.</title-abrev>
+      <title-abrev>ITAL J AGRON</title-abrev>
+      <publisher>PAGEPRESS PUBL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.955</impact-factor>
+   </pub-venue>
+   <pub-venue>
+      <id>223</id>
+      <idClass>0</idClass>
+      <issn>1699-6887</issn>
+      <title>ITEA-Informacion Tecnica Economica Agraria</title>
+      <title-abrev>ITEA-Inf. Tec. Econ. Agrar.</title-abrev>
+      <title-abrev>ITEA-INF TEC ECON AG</title-abrev>
+      <publisher>ASOCIACION INTERPROFESIONAL DESARROLLO AGARIO</publisher>
+      <pub-type>J</pub-type>
+      <language>SPANISH</language>
+      <subject>AGRICULTURE, DAIRY `AND` ANIMAL SCIENCE</subject>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.389</impact-factor>
+      <impact-factor-5-years>0.363</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>224</id>
+      <idClass>0</idClass>
+      <issn>0972-1665</issn>
+      <title>Journal of Agrometeorology</title>
+      <title-abrev>J. Agrometeorol.</title-abrev>
+      <title-abrev>J AGROMETEOROL</title-abrev>
+      <publisher>ASSOC AGROMETEROLOGISTS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>METEOROLOGY `AND` ATMOSPHERIC SCIENCES</subject>
+      <impact-factor>0.361</impact-factor>
+      <impact-factor-5-years>0.232</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>225</id>
+      <idClass>0</idClass>
+      <issn>0931-2250</issn>
+      <title>JOURNAL OF AGRONOMY AND CROP SCIENCE</title>
+      <title-abrev>J. Agron. Crop Sci.</title-abrev>
+      <title-abrev>J AGRON CROP SCI</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>2.565</impact-factor>
+      <impact-factor-5-years>2.803</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>226</id>
+      <idClass>0</idClass>
+      <issn>1527-3741</issn>
+      <title>JOURNAL OF THE AMERICAN POMOLOGICAL SOCIETY</title>
+      <title-abrev>J. Amer. Pomolog. Soc.</title-abrev>
+      <title-abrev>J AM POMOL SOC</title-abrev>
+      <publisher>AMER POMOLOGICAL SOC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>HORTICULTURE</subject>
+      <impact-factor>0.151</impact-factor>
+      <impact-factor-5-years>0.282</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>227</id>
+      <idClass>0</idClass>
+      <issn>1436-8730</issn>
+      <title>JOURNAL OF PLANT NUTRITION AND SOIL SCIENCE</title>
+      <title-abrev>J. Plant Nutr. Soil Sci.</title-abrev>
+      <title-abrev>J PLANT NUTR SOIL SC</title-abrev>
+      <publisher>WILEY-V C H VERLAG GMBH</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <subject>SOIL SCIENCE</subject>
+      <impact-factor>1.816</impact-factor>
+      <impact-factor-5-years>1.951</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>228</id>
+      <idClass>0</idClass>
+      <issn>1936-5209</issn>
+      <title>Journal of Plant Registrations</title>
+      <title-abrev>J. Plant Regist.</title-abrev>
+      <title-abrev>J PLANT REGIST</title-abrev>
+      <publisher>CROP SCIENCE SOC AMER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <impact-factor>0.474</impact-factor>
+      <impact-factor-5-years>0.637</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>229</id>
+      <idClass>0</idClass>
+      <issn>0250-5371</issn>
+      <title>Legume Research</title>
+      <title-abrev>Legume Res.</title-abrev>
+      <title-abrev>LEGUME RES</title-abrev>
+      <publisher>AGRICULTURAL RESEARCH COMMUNICATION CENTRE</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.145</impact-factor>
+      <impact-factor-5-years>0.145</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>230</id>
+      <idClass>0</idClass>
+      <issn>0025-6153</issn>
+      <title>MAYDICA</title>
+      <publisher>MAYDICA-IST SPER CEREALICOLTUR</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <impact-factor>0.484</impact-factor>
+      <impact-factor-5-years>0.695</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>231</id>
+      <idClass>0</idClass>
+      <issn>1380-3743</issn>
+      <title>MOLECULAR BREEDING</title>
+      <title-abrev>Mol. Breed.</title-abrev>
+      <title-abrev>MOL BREEDING</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <subject>GENETICS `AND` HEREDITY</subject>
+      <subject>HORTICULTURE</subject>
+      <impact-factor>2.108</impact-factor>
+      <impact-factor-5-years>2.575</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>232</id>
+      <idClass>0</idClass>
+      <issn>1229-8093</issn>
+      <title>MYCOBIOLOGY</title>
+      <publisher>KOREAN SOC MYCOLOGY</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>MYCOLOGY</subject>
+      <impact-factor>0.573</impact-factor>
+   </pub-venue>
+   <pub-venue>
+      <id>233</id>
+      <idClass>0</idClass>
+      <issn>0114-0671</issn>
+      <title>NEW ZEALAND JOURNAL OF CROP AND HORTICULTURAL SCIENCE</title>
+      <title-abrev>N. Z. J. Crop Hortic. Sci.</title-abrev>
+      <title-abrev>NEW ZEAL J CROP HORT</title-abrev>
+      <publisher>TAYLOR `AND` FRANCIS LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>HORTICULTURE</subject>
+      <impact-factor>0.417</impact-factor>
+      <impact-factor-5-years>0.467</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>234</id>
+      <idClass>0</idClass>
+      <issn>1611-2490</issn>
+      <title>Paddy and Water Environment</title>
+      <title-abrev>Paddy Water Environ.</title-abrev>
+      <title-abrev>PADDY WATER ENVIRON</title-abrev>
+      <publisher>SPRINGER HEIDELBERG</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRICULTURAL ENGINEERING</subject>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.871</impact-factor>
+      <impact-factor-5-years>1.145</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>235</id>
+      <idClass>0</idClass>
+      <issn>1526-498X</issn>
+      <title>PEST MANAGEMENT SCIENCE</title>
+      <title-abrev>Pest Manag. Sci.</title-abrev>
+      <title-abrev>PEST MANAG SCI</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>ENTOMOLOGY</subject>
+      <impact-factor>2.811</impact-factor>
+      <impact-factor-5-years>3.116</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>236</id>
+      <idClass>0</idClass>
+      <issn>0115-463X</issn>
+      <title>Philippine Journal of Crop Science</title>
+      <title-abrev>Philipp. J. Crop Sci.</title-abrev>
+      <title-abrev>PHILIPP J CROP SCI</title-abrev>
+      <publisher>CROP SCIENCE SOC PHILLIPPINES</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.333</impact-factor>
+      <impact-factor-5-years>0.270</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>237</id>
+      <idClass>0</idClass>
+      <issn>0031-9465</issn>
+      <title>PHYTOPATHOLOGIA MEDITERRANEA</title>
+      <title-abrev>Phytopathol. Mediterr.</title-abrev>
+      <title-abrev>PHYTOPATHOL MEDITERR</title-abrev>
+      <publisher>MEDITERRANEAN PHYTOPATHOLOGICAL UNION</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <impact-factor>1.042</impact-factor>
+      <impact-factor-5-years>1.396</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>238</id>
+      <idClass>0</idClass>
+      <issn>0179-9541</issn>
+      <title>PLANT BREEDING</title>
+      <title-abrev>Plant Breed.</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRONOMY</subject>
+      <subject>BIOTECHNOLOGY `AND` APPLIED MICROBIOLOGY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <impact-factor>1.502</impact-factor>
+      <impact-factor-5-years>1.629</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>239</id>
+      <idClass>0</idClass>
+      <issn>0032-0862</issn>
+      <title>PLANT PATHOLOGY</title>
+      <title-abrev>Plant Pathol.</title-abrev>
+      <title-abrev>PLANT PATHOL</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <impact-factor>2.383</impact-factor>
+      <impact-factor-5-years>2.723</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>240</id>
+      <idClass>0</idClass>
+      <issn>1343-943X</issn>
+      <title>PLANT PRODUCTION SCIENCE</title>
+      <title-abrev>Plant. Prod. Sci.</title-abrev>
+      <title-abrev>PLANT PROD SCI</title-abrev>
+      <publisher>CROP SCIENCE SOC JAPAN</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.612</impact-factor>
+      <impact-factor-5-years>0.830</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>241</id>
+      <idClass>0</idClass>
+      <issn>1212-2580</issn>
+      <title>PLANT PROTECTION SCIENCE</title>
+      <title-abrev>Plant Prot. Sci.</title-abrev>
+      <title-abrev>PLANT PROTECT SCI</title-abrev>
+      <publisher>CZECH ACADEMY AGRICULTURAL SCIENCES</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <impact-factor>0.661</impact-factor>
+   </pub-venue>
+   <pub-venue>
+      <id>242</id>
+      <idClass>0</idClass>
+      <issn>0032-079X</issn>
+      <title>PLANT AND SOIL</title>
+      <title-abrev>Plant Soil</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <subject>SOIL SCIENCE</subject>
+      <impact-factor>2.969</impact-factor>
+      <impact-factor-5-years>3.581</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>243</id>
+      <idClass>0</idClass>
+      <issn>1214-1178</issn>
+      <title>PLANT SOIL AND ENVIRONMENT</title>
+      <title-abrev>Plant Soil Environ.</title-abrev>
+      <title-abrev>PLANT SOIL ENVIRON</title-abrev>
+      <publisher>CZECH ACADEMY AGRICULTURAL SCIENCES</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>1.039</impact-factor>
+      <impact-factor-5-years>1.272</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>244</id>
+      <idClass>0</idClass>
+      <issn>0925-5214</issn>
+      <title>POSTHARVEST BIOLOGY AND TECHNOLOGY</title>
+      <title-abrev>Postharvest Biol. Technol.</title-abrev>
+      <title-abrev>POSTHARVEST BIOL TEC</title-abrev>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>FOOD SCIENCE `AND` TECHNOLOGY</subject>
+      <subject>HORTICULTURE</subject>
+      <impact-factor>2.618</impact-factor>
+      <impact-factor-5-years>3.181</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>245</id>
+      <idClass>0</idClass>
+      <issn>0014-3065</issn>
+      <title>POTATO RESEARCH</title>
+      <title-abrev>Potato Res.</title-abrev>
+      <title-abrev>POTATO RES</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.692</impact-factor>
+      <impact-factor-5-years>1.094</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>246</id>
+      <idClass>0</idClass>
+      <issn>0971-2070</issn>
+      <title>Range Management and Agroforestry</title>
+      <title-abrev>Range Manag. Agrofor.</title-abrev>
+      <title-abrev>RANGE MANAG AGROFOR</title-abrev>
+      <publisher>RANGE MANAGEMENT SOC INDIA</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.391</impact-factor>
+      <impact-factor-5-years>0.302</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>247</id>
+      <idClass>0</idClass>
+      <issn>0100-316X</issn>
+      <title>Revista Caatinga</title>
+      <title-abrev>Rev. Caatinga</title-abrev>
+      <publisher>UNIV FED RURAL SEMI-ARIDO-UFERSA</publisher>
+      <pub-type>J</pub-type>
+      <language>PORTUGUESE</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.106</impact-factor>
+      <impact-factor-5-years>0.299</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>248</id>
+      <idClass>0</idClass>
+      <issn>0378-7818</issn>
+      <title>Revista de la Facultad de Agronomia de la Universidad del Zulia</title>
+      <title-abrev>Rev. Fac. Agron.</title-abrev>
+      <title-abrev>REV FAC AGRON LUZ</title-abrev>
+      <publisher>UNIV ZULIA, FACULTAD AGRONOMIA</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.030</impact-factor>
+      <impact-factor-5-years>0.096</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>249</id>
+      <idClass>0</idClass>
+      <issn>0187-7380</issn>
+      <title>Revista Fitotecnia Mexicana</title>
+      <title-abrev>Rev. Fitotec. Mex.</title-abrev>
+      <title-abrev>REV FITOTEC MEX</title-abrev>
+      <publisher>SOC MEXICANA FITOGENETICA</publisher>
+      <pub-type>J</pub-type>
+      <language>SPANISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.318</impact-factor>
+      <impact-factor-5-years>0.430</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>250</id>
+      <idClass>0</idClass>
+      <issn>1939-8425</issn>
+      <title>Rice</title>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>3.417</impact-factor>
+      <impact-factor-5-years>3.536</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>251</id>
+      <idClass>0</idClass>
+      <issn>1222-4227</issn>
+      <title>Romanian Agricultural Research</title>
+      <title-abrev>Rom. Agric. Res.</title-abrev>
+      <title-abrev>ROM AGRIC RES</title-abrev>
+      <publisher>NATL AGRICULTURAL RESEARCH `AND` DEVELOPMENT INST</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.272</impact-factor>
+      <impact-factor-5-years>0.290</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>252</id>
+      <idClass>0</idClass>
+      <issn>0251-0952</issn>
+      <title>SEED SCIENCE AND TECHNOLOGY</title>
+      <title-abrev>Seed Sci. Technol.</title-abrev>
+      <title-abrev>SEED SCI TECHNOL</title-abrev>
+      <publisher>ISTA-INT SEED TESTING ASSOC</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <subject>HORTICULTURE</subject>
+      <impact-factor>0.521</impact-factor>
+      <impact-factor-5-years>0.695</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>253</id>
+      <idClass>0</idClass>
+      <issn>0972-1525</issn>
+      <title>Sugar Tech</title>
+      <title-abrev>Sugar Tech.</title-abrev>
+      <publisher>SPRINGER INDIA</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.621</impact-factor>
+      <impact-factor-5-years>0.654</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>254</id>
+      <idClass>0</idClass>
+      <issn>0040-5752</issn>
+      <title>THEORETICAL AND APPLIED GENETICS</title>
+      <title-abrev>Theor. Appl. Genet.</title-abrev>
+      <title-abrev>THEOR APPL GENET</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <subject>GENETICS `AND` HEREDITY</subject>
+      <subject>HORTICULTURE</subject>
+      <impact-factor>3.900</impact-factor>
+      <impact-factor-5-years>4.115</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>255</id>
+      <idClass>0</idClass>
+      <issn>1300-011X</issn>
+      <title>Turkish Journal of Agriculture and Forestry</title>
+      <title-abrev>Turk. J. Agric. For.</title-abrev>
+      <title-abrev>TURK J AGRIC FOR</title-abrev>
+      <publisher>TUBITAK SCIENTIFIC `AND` TECHNICAL RESEARCH COUNCIL TURKEY</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>1.311</impact-factor>
+      <impact-factor-5-years>1.171</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>256</id>
+      <idClass>0</idClass>
+      <issn>1301-1111</issn>
+      <title>Turkish Journal of Field Crops</title>
+      <title-abrev>Turk. J. Field Crops</title-abrev>
+      <publisher>SOC FIELD CROP SCI</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <impact-factor>0.418</impact-factor>
+      <impact-factor-5-years>0.579</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>257</id>
+      <idClass>0</idClass>
+      <issn>1444-6162</issn>
+      <title>WEED BIOLOGY AND MANAGEMENT</title>
+      <title-abrev>Weed Biol. Manag.</title-abrev>
+      <title-abrev>WEED BIOL MANAG</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <impact-factor>0.500</impact-factor>
+      <impact-factor-5-years>0.829</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>258</id>
+      <idClass>0</idClass>
+      <issn>0043-1737</issn>
+      <title>WEED RESEARCH</title>
+      <title-abrev>Weed Res.</title-abrev>
+      <title-abrev>WEED RES</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <impact-factor>1.517</impact-factor>
+      <impact-factor-5-years>1.994</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>259</id>
+      <idClass>0</idClass>
+      <issn>0043-1745</issn>
+      <title>WEED SCIENCE</title>
+      <title-abrev>Weed Sci.</title-abrev>
+      <title-abrev>WEED SCI</title-abrev>
+      <publisher>WEED SCI SOC AMER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <impact-factor>1.993</impact-factor>
+      <impact-factor-5-years>2.166</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>260</id>
+      <idClass>0</idClass>
+      <issn>0890-037X</issn>
+      <title>WEED TECHNOLOGY</title>
+      <title-abrev>Weed Technol.</title-abrev>
+      <title-abrev>WEED TECHNOL</title-abrev>
+      <publisher>WEED SCI SOC AMER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>AGRONOMY</subject>
+      <subject>PLANT SCIENCES</subject>
+      <impact-factor>1.487</impact-factor>
+      <impact-factor-5-years>1.280</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>261</id>
+      <idClass>0</idClass>
+      <issn>0301-0546</issn>
+      <title>ALLERGOLOGIA ET IMMUNOPATHOLOGIA</title>
+      <title-abrev>Allergol. Immunopath.</title-abrev>
+      <title-abrev>ALLERGOL IMMUNOPATH</title-abrev>
+      <publisher>ELSEVIER DOYMA SL</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>ALLERGY</subject>
+      <subject>IMMUNOLOGY</subject>
+      <impact-factor>1.689</impact-factor>
+      <impact-factor-5-years>1.484</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>262</id>
+      <idClass>0</idClass>
+      <issn>1323-8930</issn>
+      <title>ALLERGOLOGY INTERNATIONAL</title>
+      <title-abrev>Allergol. Int.</title-abrev>
+      <title-abrev>ALLERGOL INT</title-abrev>
+      <publisher>JAPANESE SOCIETY ALLERGOLOGY</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>IMMUNOLOGY</subject>
+      <impact-factor>2.355</impact-factor>
+   </pub-venue>
+   <pub-venue>
+      <id>263</id>
+      <idClass>0</idClass>
+      <issn>0344-5062</issn>
+      <title>ALLERGOLOGIE</title>
+      <publisher>DUSTRI-VERLAG DR KARL FEISTLE</publisher>
+      <pub-type>J</pub-type>
+      <language>GERMAN</language>
+      <subject>ALLERGY</subject>
+      <impact-factor>0.161</impact-factor>
+      <impact-factor-5-years>0.148</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>264</id>
+      <idClass>0</idClass>
+      <issn>0105-4538</issn>
+      <title>ALLERGY</title>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>IMMUNOLOGY</subject>
+      <impact-factor>6.335</impact-factor>
+      <impact-factor-5-years>5.746</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>265</id>
+      <idClass>0</idClass>
+      <issn>1710-1484</issn>
+      <title>Allergy Asthma and Clinical Immunology</title>
+      <title-abrev>Allerg Asthma Clin. Immunol.</title-abrev>
+      <title-abrev>ALLERGY ASTHMA CL IM</title-abrev>
+      <publisher>BIOMED CENTRAL LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>IMMUNOLOGY</subject>
+      <impact-factor>2.283</impact-factor>
+   </pub-venue>
+   <pub-venue>
+      <id>266</id>
+      <idClass>0</idClass>
+      <issn>2092-7355</issn>
+      <title>Allergy Asthma `AND` Immunology Research</title>
+      <title-abrev>Allergy Asthma Immunol. Res.</title-abrev>
+      <title-abrev>ALLERGY ASTHMA IMMUN</title-abrev>
+      <publisher>KOREAN ACAD ASTHMA ALLERGY `AND` CLINICAL IMMUNOLOGY</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>IMMUNOLOGY</subject>
+      <impact-factor>2.309</impact-factor>
+      <impact-factor-5-years>2.612</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>267</id>
+      <idClass>0</idClass>
+      <issn>1088-5412</issn>
+      <title>ALLERGY AND ASTHMA PROCEEDINGS</title>
+      <title-abrev>Allergy Asthma Proc.</title-abrev>
+      <title-abrev>ALLERGY ASTHMA PROC</title-abrev>
+      <publisher>OCEAN SIDE PUBLICATIONS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <impact-factor>2.709</impact-factor>
+      <impact-factor-5-years>2.408</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>268</id>
+      <idClass>0</idClass>
+      <issn>1081-1206</issn>
+      <title>ANNALS OF ALLERGY ASTHMA `AND` IMMUNOLOGY</title>
+      <title-abrev>Ann. Allergy Asthma Immunol.</title-abrev>
+      <title-abrev>ANN ALLERG ASTHMA IM</title-abrev>
+      <publisher>ELSEVIER SCIENCE INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>IMMUNOLOGY</subject>
+      <impact-factor>3.475</impact-factor>
+      <impact-factor-5-years>3.281</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>269</id>
+      <idClass>0</idClass>
+      <issn>0125-877X</issn>
+      <title>ASIAN PACIFIC JOURNAL OF ALLERGY AND IMMUNOLOGY</title>
+      <title-abrev>Asian Pac. J. Allergy Immunol.</title-abrev>
+      <title-abrev>ASIAN PAC J ALLERGY</title-abrev>
+      <publisher>ALLERGY IMMUNOL SOC THAILAND,</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>IMMUNOLOGY</subject>
+      <impact-factor>1.269</impact-factor>
+      <impact-factor-5-years>1.303</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>270</id>
+      <idClass>0</idClass>
+      <issn>0954-7894</issn>
+      <title>CLINICAL AND EXPERIMENTAL ALLERGY</title>
+      <title-abrev>Clin. Exp. Allergy</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>IMMUNOLOGY</subject>
+      <impact-factor>5.587</impact-factor>
+      <impact-factor-5-years>4.658</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>271</id>
+      <idClass>0</idClass>
+      <issn>1080-0549</issn>
+      <title>CLINICAL REVIEWS IN ALLERGY `AND` IMMUNOLOGY</title>
+      <title-abrev>Clin. Rev. Allergy Immunol.</title-abrev>
+      <title-abrev>CLIN REV ALLERG IMMU</title-abrev>
+      <publisher>HUMANA PRESS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>IMMUNOLOGY</subject>
+      <impact-factor>5.313</impact-factor>
+      <impact-factor-5-years>4.202</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>272</id>
+      <idClass>0</idClass>
+      <issn>0105-1873</issn>
+      <title>CONTACT DERMATITIS</title>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>DERMATOLOGY</subject>
+      <impact-factor>5.692</impact-factor>
+      <impact-factor-5-years>4.644</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>273</id>
+      <idClass>0</idClass>
+      <issn>1529-7322</issn>
+      <title>CURRENT ALLERGY AND ASTHMA REPORTS</title>
+      <title-abrev>Curr. Allergy Asthma Rep.</title-abrev>
+      <title-abrev>CURR ALLERGY ASTHM R</title-abrev>
+      <publisher>CURRENT MEDICINE GROUP</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>IMMUNOLOGY</subject>
+      <impact-factor>3.127</impact-factor>
+      <impact-factor-5-years>2.865</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>274</id>
+      <idClass>0</idClass>
+      <issn>1528-4050</issn>
+      <title>Current Opinion in Allergy and Clinical Immunology</title>
+      <title-abrev>Curr. Opin. Allergy Clin. Immunol.</title-abrev>
+      <title-abrev>CURR OPIN ALLERGY CL</title-abrev>
+      <publisher>LIPPINCOTT WILLIAMS `AND` WILKINS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>IMMUNOLOGY</subject>
+      <impact-factor>2.771</impact-factor>
+      <impact-factor-5-years>3.088</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>275</id>
+      <idClass>0</idClass>
+      <issn>0889-8561</issn>
+      <title>IMMUNOLOGY AND ALLERGY CLINICS OF NORTH AMERICA</title>
+      <title-abrev>Immunol. Allerg. Clin. North Am.</title-abrev>
+      <title-abrev>IMMUNOL ALLERGY CLIN</title-abrev>
+      <publisher>W B SAUNDERS CO-ELSEVIER INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>IMMUNOLOGY</subject>
+      <impact-factor>2.352</impact-factor>
+      <impact-factor-5-years>2.289</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>276</id>
+      <idClass>0</idClass>
+      <issn>1018-2438</issn>
+      <title>INTERNATIONAL ARCHIVES OF ALLERGY AND IMMUNOLOGY</title>
+      <title-abrev>Int. Arch. Allergy Immunol.</title-abrev>
+      <title-abrev>INT ARCH ALLERGY IMM</title-abrev>
+      <publisher>KARGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>IMMUNOLOGY</subject>
+      <impact-factor>2.677</impact-factor>
+      <impact-factor-5-years>2.389</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>277</id>
+      <idClass>0</idClass>
+      <issn>1735-1502</issn>
+      <title>Iranian Journal of Allergy Asthma and Immunology</title>
+      <title-abrev>Iran. J. Allergy Asthma Immunol.</title-abrev>
+      <title-abrev>IRAN J ALLERGY ASTHM</title-abrev>
+      <publisher>IRANIAN SCIENTIFIC SOCIETY MEDICAL ENTOMOLOGY</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>IMMUNOLOGY</subject>
+      <impact-factor>1.117</impact-factor>
+      <impact-factor-5-years>1.089</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>278</id>
+      <idClass>0</idClass>
+      <issn>2213-2198</issn>
+      <title>Journal of Allergy and Clinical Immunology-In Practice</title>
+      <title-abrev>J. Allergy Clin. Immunol.-Pract.</title-abrev>
+      <title-abrev>J ALLER CL IMM-PRACT</title-abrev>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>IMMUNOLOGY</subject>
+      <impact-factor>5.429</impact-factor>
+      <impact-factor-5-years>5.429</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>279</id>
+      <idClass>0</idClass>
+      <issn>0091-6749</issn>
+      <title>JOURNAL OF ALLERGY AND CLINICAL IMMUNOLOGY</title>
+      <title-abrev>J. Allergy Clin. Immunol.</title-abrev>
+      <title-abrev>J ALLERGY CLIN IMMUN</title-abrev>
+      <publisher>MOSBY-ELSEVIER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>IMMUNOLOGY</subject>
+      <impact-factor>12.485</impact-factor>
+      <impact-factor-5-years>11.476</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>280</id>
+      <idClass>0</idClass>
+      <issn>0277-0903</issn>
+      <title>JOURNAL OF ASTHMA</title>
+      <title-abrev>J. Asthma</title-abrev>
+      <publisher>TAYLOR `AND` FRANCIS LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>RESPIRATORY SYSTEM</subject>
+      <impact-factor>1.854</impact-factor>
+      <impact-factor-5-years>1.827</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>281</id>
+      <idClass>0</idClass>
+      <issn>1018-9068</issn>
+      <title>JOURNAL OF INVESTIGATIONAL ALLERGOLOGY AND CLINICAL IMMUNOLOGY</title>
+      <title-abrev>J. Invest. Allergol. Clin. Immunol.</title-abrev>
+      <title-abrev>J INVEST ALLERG CLIN</title-abrev>
+      <publisher>ESMON PUBLICIDAD S A</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>IMMUNOLOGY</subject>
+      <impact-factor>2.131</impact-factor>
+      <impact-factor-5-years>2.564</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>282</id>
+      <idClass>0</idClass>
+      <issn>2151-321X</issn>
+      <title>Pediatric Allergy Immunology and Pulmonology</title>
+      <title-abrev>Pediatr. Allergy Immunol. Pulmonol.</title-abrev>
+      <title-abrev>PEDIAT ALLER IMM PUL</title-abrev>
+      <publisher>MARY ANN LIEBERT, INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>IMMUNOLOGY</subject>
+      <subject>PEDIATRICS</subject>
+      <subject>RESPIRATORY SYSTEM</subject>
+      <impact-factor>0.941</impact-factor>
+      <impact-factor-5-years>0.774</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>283</id>
+      <idClass>0</idClass>
+      <issn>0905-6157</issn>
+      <title>PEDIATRIC ALLERGY AND IMMUNOLOGY</title>
+      <title-abrev>Pediatr. Allergy Immunol.</title-abrev>
+      <title-abrev>PEDIAT ALLERG IMM-UK</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>IMMUNOLOGY</subject>
+      <subject>PEDIATRICS</subject>
+      <impact-factor>3.947</impact-factor>
+      <impact-factor-5-years>3.262</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>284</id>
+      <idClass>0</idClass>
+      <issn>1642-395X</issn>
+      <title>Postepy Dermatologii i Alergologii</title>
+      <title-abrev>Postep. Dermatol. Alergol.</title-abrev>
+      <title-abrev>POSTEP DERM ALERGOL</title-abrev>
+      <publisher>TERMEDIA PUBLISHING HOUSE LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>POLISH</language>
+      <subject>ALLERGY</subject>
+      <subject>DERMATOLOGY</subject>
+      <impact-factor>1.342</impact-factor>
+      <impact-factor-5-years>0.692</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>285</id>
+      <idClass>0</idClass>
+      <issn>1877-0320</issn>
+      <title>Revue Francaise d Allergologie</title>
+      <title-abrev>Rev. Fr. Allergol.</title-abrev>
+      <title-abrev>REV FR ALLERGOL</title-abrev>
+      <publisher>ELSEVIER MASSON</publisher>
+      <pub-type>J</pub-type>
+      <language>FRENCH</language>
+      <subject>ALLERGY</subject>
+      <impact-factor>0.217</impact-factor>
+      <impact-factor-5-years>0.157</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>286</id>
+      <idClass>0</idClass>
+      <issn>0001-7272</issn>
+      <title>ACTA ZOOLOGICA</title>
+      <title-abrev>Acta Zool.</title-abrev>
+      <title-abrev>ACTA ZOOL-STOCKHOLM</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <subject>ZOOLOGY</subject>
+      <impact-factor>0.989</impact-factor>
+      <impact-factor-5-years>1.000</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>287</id>
+      <idClass>0</idClass>
+      <issn>0301-5556</issn>
+      <title>Advances in Anatomy Embryology and Cell Biology</title>
+      <title-abrev>Adv. Anat. Embyrol. Cell Biol.</title-abrev>
+      <title-abrev>ADV ANAT EMBRYOL CEL</title-abrev>
+      <publisher>SPRINGER-VERLAG BERLIN</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <subject>CELL BIOLOGY</subject>
+      <impact-factor>1.000</impact-factor>
+      <impact-factor-5-years>3.333</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>288</id>
+      <idClass>0</idClass>
+      <issn>0340-2096</issn>
+      <title>ANATOMIA HISTOLOGIA EMBRYOLOGIA</title>
+      <title-abrev>Anat. Histol. Embryol.</title-abrev>
+      <title-abrev>ANAT HISTOL EMBRYOL</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <subject>VETERINARY SCIENCES</subject>
+      <impact-factor>0.615</impact-factor>
+      <impact-factor-5-years>0.670</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>289</id>
+      <idClass>0</idClass>
+      <issn>1932-8486</issn>
+      <title>Anatomical Record-Advances in Integrative Anatomy and Evolutionary Biology</title>
+      <title-abrev>Anat. Rec.</title-abrev>
+      <title-abrev>ANAT REC</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <impact-factor>1.507</impact-factor>
+      <impact-factor-5-years>1.627</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>290</id>
+      <idClass>0</idClass>
+      <issn>1447-6959</issn>
+      <title>ANATOMICAL SCIENCE INTERNATIONAL</title>
+      <title-abrev>Anat. Sci. Int.</title-abrev>
+      <title-abrev>ANAT SCI INT</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <impact-factor>0.861</impact-factor>
+      <impact-factor-5-years>0.810</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>291</id>
+      <idClass>0</idClass>
+      <issn>0940-9602</issn>
+      <title>ANNALS OF ANATOMY-ANATOMISCHER ANZEIGER</title>
+      <title-abrev>Ann. Anat.-Anat. Anz.</title-abrev>
+      <title-abrev>ANN ANAT</title-abrev>
+      <publisher>ELSEVIER GMBH, URBAN `AND` FISCHER VERLAG</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <impact-factor>1.308</impact-factor>
+      <impact-factor-5-years>1.722</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>292</id>
+      <idClass>0</idClass>
+      <issn>1541-2016</issn>
+      <title>APPLIED IMMUNOHISTOCHEMISTRY `AND` MOLECULAR MORPHOLOGY</title>
+      <title-abrev>Appl. Immunohistochem.</title-abrev>
+      <title-abrev>APPL IMMUNOHISTO M M</title-abrev>
+      <publisher>LIPPINCOTT WILLIAMS `AND` WILKINS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <subject>MEDICAL LABORATORY TECHNOLOGY</subject>
+      <subject>PATHOLOGY</subject>
+      <impact-factor>1.553</impact-factor>
+      <impact-factor-5-years>1.640</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>293</id>
+      <idClass>0</idClass>
+      <issn>1863-2653</issn>
+      <title>Brain Structure `AND` Function</title>
+      <title-abrev>Brain Struct. Funct.</title-abrev>
+      <title-abrev>BRAIN STRUCT FUNCT</title-abrev>
+      <publisher>SPRINGER HEIDELBERG</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <subject>NEUROSCIENCES</subject>
+      <impact-factor>5.811</impact-factor>
+      <impact-factor-5-years>6.803</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>294</id>
+      <idClass>0</idClass>
+      <issn>1422-6405</issn>
+      <title>CELLS TISSUES ORGANS</title>
+      <publisher>KARGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <subject>CELL BIOLOGY</subject>
+      <subject>DEVELOPMENTAL BIOLOGY</subject>
+      <impact-factor>1.228</impact-factor>
+      <impact-factor-5-years>1.799</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>295</id>
+      <idClass>0</idClass>
+      <issn>0897-3806</issn>
+      <title>CLINICAL ANATOMY</title>
+      <title-abrev>Clin. Anat.</title-abrev>
+      <title-abrev>CLIN ANAT</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <impact-factor>1.316</impact-factor>
+      <impact-factor-5-years>1.413</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>296</id>
+      <idClass>0</idClass>
+      <issn>1058-8388</issn>
+      <title>DEVELOPMENTAL DYNAMICS</title>
+      <title-abrev>Dev. Dyn.</title-abrev>
+      <title-abrev>DEV DYNAM</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <subject>DEVELOPMENTAL BIOLOGY</subject>
+      <impact-factor>2.233</impact-factor>
+      <impact-factor-5-years>2.388</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>297</id>
+      <idClass>0</idClass>
+      <issn>0015-5659</issn>
+      <title>FOLIA MORPHOLOGICA</title>
+      <title-abrev>Folia Morphol.</title-abrev>
+      <title-abrev>FOLIA MORPHOL</title-abrev>
+      <publisher>VIA MEDICA</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <impact-factor>0.469</impact-factor>
+      <impact-factor-5-years>0.517</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>298</id>
+      <idClass>0</idClass>
+      <issn>1662-5129</issn>
+      <title>Frontiers in Neuroanatomy</title>
+      <title-abrev>Front. Neuroanat.</title-abrev>
+      <title-abrev>FRONT NEUROANAT</title-abrev>
+      <publisher>FRONTIERS MEDIA SA</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <subject>NEUROSCIENCES</subject>
+      <impact-factor>3.260</impact-factor>
+      <impact-factor-5-years>3.806</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>299</id>
+      <idClass>0</idClass>
+      <issn>0717-9502</issn>
+      <title>INTERNATIONAL JOURNAL OF MORPHOLOGY</title>
+      <title-abrev>Int. J. Morphol.</title-abrev>
+      <title-abrev>INT J MORPHOL</title-abrev>
+      <publisher>SOC CHILENA ANATOMIA</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <impact-factor>0.299</impact-factor>
+      <impact-factor-5-years>0.345</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>300</id>
+      <idClass>0</idClass>
+      <issn>0021-8782</issn>
+      <title>JOURNAL OF ANATOMY</title>
+      <title-abrev>J. Anat.</title-abrev>
+      <title-abrev>J ANAT</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <impact-factor>2.154</impact-factor>
+      <impact-factor-5-years>2.469</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>301</id>
+      <idClass>0</idClass>
+      <issn>0003-2778</issn>
+      <title>Journal of the Anatomical Society of India</title>
+      <title-abrev>J. Anat. Soc. India</title-abrev>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <impact-factor>0.146</impact-factor>
+      <impact-factor-5-years>0.163</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>302</id>
+      <idClass>0</idClass>
+      <issn>0362-2525</issn>
+      <title>JOURNAL OF MORPHOLOGY</title>
+      <title-abrev>J. Morphol.</title-abrev>
+      <title-abrev>J MORPHOL</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <impact-factor>1.521</impact-factor>
+      <impact-factor-5-years>1.711</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>303</id>
+      <idClass>0</idClass>
+      <issn>1059-910X</issn>
+      <title>MICROSCOPY RESEARCH AND TECHNIQUE</title>
+      <title-abrev>Microsc. Res. Tech.</title-abrev>
+      <title-abrev>MICROSC RES TECHNIQ</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <subject>BIOLOGY</subject>
+      <subject>MICROSCOPY</subject>
+      <impact-factor>1.130</impact-factor>
+      <impact-factor-5-years>1.327</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>304</id>
+      <idClass>0</idClass>
+      <issn>0930-1038</issn>
+      <title>SURGICAL AND RADIOLOGIC ANATOMY</title>
+      <title-abrev>Surg. Radiol. Anat.</title-abrev>
+      <title-abrev>SURG RADIOL ANAT</title-abrev>
+      <publisher>SPRINGER FRANCE</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <subject>RADIOLOGY, NUCLEAR MEDICINE `AND` MEDICAL IMAGING</subject>
+      <subject>SURGERY</subject>
+      <impact-factor>1.195</impact-factor>
+      <impact-factor-5-years>1.243</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>305</id>
+      <idClass>0</idClass>
+      <issn>0040-8166</issn>
+      <title>TISSUE `AND` CELL</title>
+      <title-abrev>Tissue Cell</title-abrev>
+      <publisher>CHURCHILL LIVINGSTONE</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <subject>CELL BIOLOGY</subject>
+      <impact-factor>1.258</impact-factor>
+      <impact-factor-5-years>1.400</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>306</id>
+      <idClass>0</idClass>
+      <issn>0720-213X</issn>
+      <title>ZOOMORPHOLOGY</title>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANATOMY `AND` MORPHOLOGY</subject>
+      <subject>ZOOLOGY</subject>
+      <impact-factor>1.242</impact-factor>
+      <impact-factor-5-years>1.437</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>307</id>
+      <idClass>0</idClass>
+      <issn>0303-4569</issn>
+      <title>ANDROLOGIA</title>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>ANDROLOGY</subject>
+      <impact-factor>1.441</impact-factor>
+      <impact-factor-5-years>1.474</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>308</id>
+      <idClass>0</idClass>
+      <issn>2047-2919</issn>
+      <title>Andrology</title>
+      <title-abrev>ANDROLOGY-US</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANDROLOGY</subject>
+      <impact-factor>2.515</impact-factor>
+      <impact-factor-5-years>2.515</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>309</id>
+      <idClass>0</idClass>
+      <issn>1008-682X</issn>
+      <title>ASIAN JOURNAL OF ANDROLOGY</title>
+      <title-abrev>Asian J. Androl.</title-abrev>
+      <title-abrev>ASIAN J ANDROL</title-abrev>
+      <publisher>MEDKNOW PUBLICATIONS `AND` MEDIA PVT LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANDROLOGY</subject>
+      <subject>UROLOGY `AND` NEPHROLOGY</subject>
+      <impact-factor>2.644</impact-factor>
+      <impact-factor-5-years>2.579</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>310</id>
+      <idClass>0</idClass>
+      <issn>1698-031X</issn>
+      <title>Revista Internacional de Andrologia</title>
+      <title-abrev>Rev. Int. Androl.</title-abrev>
+      <title-abrev>REV INT ANDROL</title-abrev>
+      <publisher>ELSEVIER DOYMA SL</publisher>
+      <pub-type>J</pub-type>
+      <language>SPANISH</language>
+      <subject>ANDROLOGY</subject>
+      <impact-factor>0.238</impact-factor>
+      <impact-factor-5-years>0.223</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>311</id>
+      <idClass>0</idClass>
+      <issn>1939-6368</issn>
+      <title>Systems Biology in Reproductive Medicine</title>
+      <title-abrev>Syst. Biol. Reprod. Med.</title-abrev>
+      <title-abrev>SYST BIOL REPROD MED</title-abrev>
+      <publisher>TAYLOR `AND` FRANCIS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANDROLOGY</subject>
+      <subject>REPRODUCTIVE BIOLOGY</subject>
+      <impact-factor>1.204</impact-factor>
+      <impact-factor-5-years>1.644</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>312</id>
+      <idClass>0</idClass>
+      <issn>0001-5172</issn>
+      <title>ACTA ANAESTHESIOLOGICA SCANDINAVICA</title>
+      <title-abrev>Acta Anaesthesiol. Scand.</title-abrev>
+      <title-abrev>ACTA ANAESTH SCAND</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <impact-factor>2.049</impact-factor>
+      <impact-factor-5-years>2.357</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>313</id>
+      <idClass>0</idClass>
+      <issn>2352-5568</issn>
+      <title>Anaesthesia Critical Care `AND` Pain Medicine</title>
+      <title-abrev>Anaesth. Crit. Care Pain Med.</title-abrev>
+      <title-abrev>ANAESTH CRIT CARE PA</title-abrev>
+      <publisher>ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+   </pub-venue>
+   <pub-venue>
+      <id>314</id>
+      <idClass>0</idClass>
+      <issn>0310-057X</issn>
+      <title>ANAESTHESIA AND INTENSIVE CARE</title>
+      <title-abrev>Anaesth. Intensive Care</title-abrev>
+      <title-abrev>ANAESTH INTENS CARE</title-abrev>
+      <publisher>AUSTRALIAN SOC ANAESTHETISTS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>CRITICAL CARE MEDICINE</subject>
+      <impact-factor>1.283</impact-factor>
+      <impact-factor-5-years>1.406</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>315</id>
+      <idClass>0</idClass>
+      <issn>0003-2409</issn>
+      <title>ANAESTHESIA</title>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <impact-factor>3.794</impact-factor>
+      <impact-factor-5-years>3.429</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>316</id>
+      <idClass>0</idClass>
+      <issn>0003-2417</issn>
+      <title>ANAESTHESIST</title>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>GERMAN</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <impact-factor>0.964</impact-factor>
+      <impact-factor-5-years>0.887</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>317</id>
+      <idClass>0</idClass>
+      <issn>0939-2661</issn>
+      <title>ANASTHESIOLOGIE INTENSIVMEDIZIN NOTFALLMEDIZIN SCHMERZTHERAPIE</title>
+      <title-abrev>Anasthesiol. Intensivmed. NotfMed. Schmerzther.</title-abrev>
+      <title-abrev>ANASTH INTENSIV NOTF</title-abrev>
+      <publisher>GEORG THIEME VERLAG KG</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>CRITICAL CARE MEDICINE</subject>
+      <impact-factor>0.325</impact-factor>
+      <impact-factor-5-years>0.306</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>318</id>
+      <idClass>0</idClass>
+      <issn>0170-5334</issn>
+      <title>ANASTHESIOLOGIE `AND` INTENSIVMEDIZIN</title>
+      <title-abrev>Anasthesiol. Intensivmed.</title-abrev>
+      <title-abrev>ANASTH INTENSIVMED</title-abrev>
+      <publisher>AKTIV DRUCK `AND` VERLAG GMBH</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>CRITICAL CARE MEDICINE</subject>
+      <impact-factor>2.055</impact-factor>
+      <impact-factor-5-years>1.057</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>319</id>
+      <idClass>0</idClass>
+      <issn>0003-2999</issn>
+      <title>ANESTHESIA AND ANALGESIA</title>
+      <title-abrev>Anesth. Analg.</title-abrev>
+      <title-abrev>ANESTH ANALG</title-abrev>
+      <publisher>LIPPINCOTT WILLIAMS `AND` WILKINS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <impact-factor>3.827</impact-factor>
+      <impact-factor-5-years>3.732</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>320</id>
+      <idClass>0</idClass>
+      <issn>0003-3022</issn>
+      <title>ANESTHESIOLOGY</title>
+      <publisher>LIPPINCOTT WILLIAMS `AND` WILKINS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <impact-factor>5.555</impact-factor>
+      <impact-factor-5-years>5.680</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>321</id>
+      <idClass>0</idClass>
+      <issn>0750-7658</issn>
+      <title>ANNALES FRANCAISES D ANESTHESIE ET DE REANIMATION</title>
+      <title-abrev>Ann. Fr. Anest. Reanim.</title-abrev>
+      <title-abrev>ANN FR ANESTH</title-abrev>
+      <publisher>ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <impact-factor>0.917</impact-factor>
+      <impact-factor-5-years>0.733</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>322</id>
+      <idClass>0</idClass>
+      <issn>1471-2253</issn>
+      <title>BMC Anesthesiology</title>
+      <title-abrev>BMC Anesthesiol.</title-abrev>
+      <title-abrev>BMC ANESTHESIOL</title-abrev>
+      <publisher>BIOMED CENTRAL LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <impact-factor>1.320</impact-factor>
+      <impact-factor-5-years>1.504</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>323</id>
+      <idClass>0</idClass>
+      <issn>0007-0912</issn>
+      <title>BRITISH JOURNAL OF ANAESTHESIA</title>
+      <title-abrev>Br. J. Anaesth.</title-abrev>
+      <title-abrev>BRIT J ANAESTH</title-abrev>
+      <publisher>OXFORD UNIV PRESS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <impact-factor>5.616</impact-factor>
+      <impact-factor-5-years>5.198</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>324</id>
+      <idClass>0</idClass>
+      <issn>0832-610X</issn>
+      <title>Canadian Journal of Anesthesia-Journal canadien d anesthesie</title>
+      <title-abrev>Can. J. Anesth.</title-abrev>
+      <title-abrev>CAN J ANESTH</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <impact-factor>2.139</impact-factor>
+      <impact-factor-5-years>2.392</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>325</id>
+      <idClass>0</idClass>
+      <issn>0749-8047</issn>
+      <title>CLINICAL JOURNAL OF PAIN</title>
+      <title-abrev>Clin. J. Pain</title-abrev>
+      <publisher>LIPPINCOTT WILLIAMS `AND` WILKINS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>CLINICAL NEUROLOGY</subject>
+      <impact-factor>2.712</impact-factor>
+      <impact-factor-5-years>3.091</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>326</id>
+      <idClass>0</idClass>
+      <issn>0952-7907</issn>
+      <title>Current Opinion in Anesthesiology</title>
+      <title-abrev>Curr. Opin. Anesthesiol.</title-abrev>
+      <title-abrev>CURR OPIN ANESTHESIO</title-abrev>
+      <publisher>LIPPINCOTT WILLIAMS `AND` WILKINS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <impact-factor>1.916</impact-factor>
+      <impact-factor-5-years>2.131</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>327</id>
+      <idClass>0</idClass>
+      <issn>0265-0215</issn>
+      <title>EUROPEAN JOURNAL OF ANAESTHESIOLOGY</title>
+      <title-abrev>Eur. J. Anaesth.</title-abrev>
+      <title-abrev>EUR J ANAESTH</title-abrev>
+      <publisher>LIPPINCOTT WILLIAMS `AND` WILKINS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <impact-factor>3.634</impact-factor>
+      <impact-factor-5-years>2.972</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>328</id>
+      <idClass>0</idClass>
+      <issn>1090-3801</issn>
+      <title>EUROPEAN JOURNAL OF PAIN</title>
+      <title-abrev>Eur. J. Pain</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>CLINICAL NEUROLOGY</subject>
+      <subject>NEUROSCIENCES</subject>
+      <impact-factor>2.900</impact-factor>
+      <impact-factor-5-years>3.115</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>329</id>
+      <idClass>0</idClass>
+      <issn>0959-289X</issn>
+      <title>INTERNATIONAL JOURNAL OF OBSTETRIC ANESTHESIA</title>
+      <title-abrev>Int. J. Obstet. Anesth.</title-abrev>
+      <title-abrev>INT J OBSTET ANESTH</title-abrev>
+      <publisher>ELSEVIER SCI LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>OBSTETRICS `AND` GYNECOLOGY</subject>
+      <impact-factor>2.040</impact-factor>
+      <impact-factor-5-years>2.038</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>330</id>
+      <idClass>0</idClass>
+      <issn>0913-8668</issn>
+      <title>Journal of Anesthesia</title>
+      <title-abrev>J. Anesth.</title-abrev>
+      <title-abrev>J ANESTH</title-abrev>
+      <publisher>SPRINGER JAPAN KK</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <impact-factor>1.343</impact-factor>
+      <impact-factor-5-years>1.246</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>331</id>
+      <idClass>0</idClass>
+      <issn>1053-0770</issn>
+      <title>JOURNAL OF CARDIOTHORACIC AND VASCULAR ANESTHESIA</title>
+      <title-abrev>J. Cardiothorac. Vasc. Anesth.</title-abrev>
+      <title-abrev>J CARDIOTHOR VASC AN</title-abrev>
+      <publisher>W B SAUNDERS CO-ELSEVIER INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>CARDIAC `AND` CARDIOVASCULAR SYSTEMS</subject>
+      <subject>RESPIRATORY SYSTEM</subject>
+      <subject>PERIPHERAL VASCULAR DISEASE</subject>
+      <impact-factor>1.519</impact-factor>
+      <impact-factor-5-years>1.561</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>332</id>
+      <idClass>0</idClass>
+      <issn>0952-8180</issn>
+      <title>JOURNAL OF CLINICAL ANESTHESIA</title>
+      <title-abrev>J. Clin. Anesth.</title-abrev>
+      <title-abrev>J CLIN ANESTH</title-abrev>
+      <publisher>ELSEVIER SCIENCE INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <impact-factor>1.284</impact-factor>
+      <impact-factor-5-years>1.464</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>333</id>
+      <idClass>0</idClass>
+      <issn>1387-1307</issn>
+      <title>JOURNAL OF CLINICAL MONITORING AND COMPUTING</title>
+      <title-abrev>J. Clin. Monitor. Comp.</title-abrev>
+      <title-abrev>J CLIN MONIT COMPUT</title-abrev>
+      <publisher>SPRINGER HEIDELBERG</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <impact-factor>1.819</impact-factor>
+      <impact-factor-5-years>1.637</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>334</id>
+      <idClass>0</idClass>
+      <issn>0898-4921</issn>
+      <title>JOURNAL OF NEUROSURGICAL ANESTHESIOLOGY</title>
+      <title-abrev>J. Neurosurg. Anesthesiol.</title-abrev>
+      <title-abrev>J NEUROSURG ANESTH</title-abrev>
+      <publisher>LIPPINCOTT WILLIAMS `AND` WILKINS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>CLINICAL NEUROLOGY</subject>
+      <subject>SURGERY</subject>
+      <impact-factor>2.828</impact-factor>
+      <impact-factor-5-years>2.147</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>335</id>
+      <idClass>0</idClass>
+      <issn>0375-9393</issn>
+      <title>Minerva Anestesiologica</title>
+      <title-abrev>Minerva Anestesiol.</title-abrev>
+      <title-abrev>MINERVA ANESTESIOL</title-abrev>
+      <publisher>EDIZIONI MINERVA MEDICA</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>CRITICAL CARE MEDICINE</subject>
+      <impact-factor>2.036</impact-factor>
+      <impact-factor-5-years>1.979</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>336</id>
+      <idClass>0</idClass>
+      <issn>0304-3959</issn>
+      <title>PAIN</title>
+      <publisher>LIPPINCOTT WILLIAMS `AND` WILKINS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>CLINICAL NEUROLOGY</subject>
+      <subject>NEUROSCIENCES</subject>
+      <impact-factor>5.557</impact-factor>
+      <impact-factor-5-years>6.244</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>337</id>
+      <idClass>0</idClass>
+      <issn>1533-3159</issn>
+      <title>Pain Physician</title>
+      <publisher>AM SOC INTERVENTIONAL PAIN PHYSICIANS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>CLINICAL NEUROLOGY</subject>
+      <impact-factor>3.407</impact-factor>
+      <impact-factor-5-years>3.694</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>338</id>
+      <idClass>0</idClass>
+      <issn>1530-7085</issn>
+      <title>Pain Practice</title>
+      <title-abrev>Pain Pract.</title-abrev>
+      <title-abrev>PAIN PRACT</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>CLINICAL NEUROLOGY</subject>
+      <impact-factor>2.317</impact-factor>
+      <impact-factor-5-years>2.402</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>339</id>
+      <idClass>0</idClass>
+      <issn>1155-5645</issn>
+      <title>PEDIATRIC ANESTHESIA</title>
+      <title-abrev>Pediatr. Anesth.</title-abrev>
+      <title-abrev>PEDIATR ANESTH</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>PEDIATRICS</subject>
+      <impact-factor>2.082</impact-factor>
+      <impact-factor-5-years>2.152</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>340</id>
+      <idClass>0</idClass>
+      <issn>1098-7339</issn>
+      <title>REGIONAL ANESTHESIA AND PAIN MEDICINE</title>
+      <title-abrev>Region. Anesth. Pain Med.</title-abrev>
+      <title-abrev>REGION ANESTH PAIN M</title-abrev>
+      <publisher>LIPPINCOTT WILLIAMS `AND` WILKINS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <impact-factor>3.459</impact-factor>
+      <impact-factor-5-years>3.614</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>341</id>
+      <idClass>0</idClass>
+      <issn>0034-7094</issn>
+      <title>Revista Brasileira de Anestesiologia</title>
+      <title-abrev>Rev. Bras. Anestesiol.</title-abrev>
+      <title-abrev>REV BRAS ANESTESIOL</title-abrev>
+      <publisher>ELSEVIER SCIENCE INC</publisher>
+      <pub-type>J</pub-type>
+      <language>MULTI-LANGUAGE</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <impact-factor>0.517</impact-factor>
+      <impact-factor-5-years>0.690</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>342</id>
+      <idClass>0</idClass>
+      <issn>0932-433X</issn>
+      <title>SCHMERZ</title>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>GERMAN</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>CLINICAL NEUROLOGY</subject>
+      <impact-factor>0.894</impact-factor>
+      <impact-factor-5-years>1.063</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>343</id>
+      <idClass>0</idClass>
+      <issn>0932433X</issn>
+      <title>SCHMERZ</title>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>GERMAN</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>CLINICAL NEUROLOGY</subject>
+      <impact-factor>0.894</impact-factor>
+      <impact-factor-5-years>1.063</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>344</id>
+      <idClass>0</idClass>
+      <issn>0932-433x</issn>
+      <title>SCHMERZ</title>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>GERMAN</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>CLINICAL NEUROLOGY</subject>
+      <impact-factor>0.894</impact-factor>
+      <impact-factor-5-years>1.063</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>345</id>
+      <idClass>0</idClass>
+      <issn>932-433X</issn>
+      <title>SCHMERZ</title>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>GERMAN</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>CLINICAL NEUROLOGY</subject>
+      <impact-factor>0.894</impact-factor>
+      <impact-factor-5-years>1.063</impact-factor-5-years>
+   </pub-venue>
+   <pub-venue>
+      <id>346</id>
+      <idClass>0</idClass>
+      <issn>0932-33X</issn>
+      <title>SCHMERZ</title>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>GERMAN</language>
+      <subject>ANESTHESIOLOGY</subject>
+      <subject>CLINICAL NEUROLOGY</subject>
+      <impact-factor>0.894</impact-factor>
+      <impact-factor-5-years>1.063</impact-factor-5-years>
+   </pub-venue>
+</publication-venues>
