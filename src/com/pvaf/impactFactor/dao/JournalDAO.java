@@ -85,22 +85,6 @@ public class JournalDAO {
                 ps.close();
             }
             
-            // Inserir title
-            for(int k=0; k<idPubVenues.length; k++){
-                
-                for(String t: journal.getTitles()){
-                    i=1;
-                    ps = conn.prepareStatement("INSERT INTO title (id_pub_venue,title) VALUES (?,?)");
-                    ps.setInt(i++,idPubVenues[k]);
-                    byte array[] = t.getBytes("UTF-8");
-                    t = new String(array, "UTF-8");
-                    ps.setString(i++, t);
-                    ps.executeUpdate();
-                    ps.close();
-                    
-                }
-            }
-            
             // Inserir title_abrev
             for(int k=0; k<idPubVenues.length; k++){
                 
@@ -137,6 +121,22 @@ public class JournalDAO {
                 ps.executeUpdate();
                 ps.close();
             }
+            
+            // Inserir title
+            for(int k=0; k<idPubVenues.length; k++){
+                
+                for(String t: journal.getTitles()){
+                    i=1;
+                    ps = conn.prepareStatement("INSERT INTO title (id_pub_venue,title) VALUES (?,?)");
+                    ps.setInt(i++,idPubVenues[k]);
+                    byte array[] = t.getBytes("UTF-8");
+                    t = new String(array, "UTF-8");
+                    ps.setString(i++, t);
+                    ps.executeUpdate();
+                    ps.close();
+                }
+            }
+            
             conn.commit();
         }catch(SQLException e){
             System.err.println( "Ocorreu uma exceção de SQL. Causa: " + e.getMessage() );
@@ -211,25 +211,6 @@ public class JournalDAO {
                 ps.close();
             }
             
-            // Title
-            for (String journalTitle : journal.getTitles()) {
-                byte array[] = journalTitle.getBytes("UTF-8");
-                journalTitle = new String(array, "UTF-8");
-                
-                idPubVenueAux = 0;
-                idPubVenueAux = TitleDAO.checkIdPubVenue(idPubVenue, journalTitle);
-                
-                if (idPubVenue != idPubVenueAux) {
-                    
-                    i=1;
-                    ps = conn.prepareStatement("INSERT INTO title (id_pub_venue, title) VALUES (?,?)");
-                    ps.setInt(i++,idPubVenue);                    
-                    ps.setString(i++, journalTitle);
-                    ps.executeUpdate();
-                    ps.close();
-                }
-            }
-            
             // Title Abrev
             for (String journalTitleAbrev : journal.getTitlesAbrev()) {
                 byte array[] = journalTitleAbrev.getBytes("UTF-8");
@@ -247,11 +228,29 @@ public class JournalDAO {
                 }
             }
             
+            // Title
+            for (String journalTitle : journal.getTitles()) {
+                byte array[] = journalTitle.getBytes("UTF-8");
+                journalTitle = new String(array, "UTF-8");
+                
+                idPubVenueAux = 0;
+                idPubVenueAux = TitleDAO.checkIdPubVenue(idPubVenue, journalTitle);
+                
+                if (idPubVenue != idPubVenueAux) {
+                    
+                    i=1;
+                    ps = conn.prepareStatement("INSERT INTO title (id_pub_venue, title) VALUES (?,?)");
+                    ps.setInt(i++,idPubVenue);                    
+                    ps.setString(i++, journalTitle);
+                    ps.executeUpdate();
+                    ps.close();
+                    conn.commit();
+                }
+            }
+            
             conn.commit();
         }catch(SQLException e){
-            System.err.println( "Ocorreu uma exceção de SQL. Causa: " + e.getMessage());
-            e.printStackTrace();
-            
+            System.err.println( "Ocorreu uma exceção de SQL. Causa: " + e.getMessage());            
             if(conn !=null){
 		try{
                     conn.rollback();

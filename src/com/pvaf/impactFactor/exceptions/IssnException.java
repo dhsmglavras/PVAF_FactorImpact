@@ -180,8 +180,13 @@ public class IssnException extends Exception{
         return publications;
     }
     
+    public boolean fileExist(){
+        File file = new File("registroErro.xml");
+        return file.exists();
+    }
+        
     @Override
     public String getMessage(){
-	return "Erro, Verifique a Causa no registroErro.xml";
+	return "ISSN inválido, verifique no arquivo: registroErro.xml";
     }
 }

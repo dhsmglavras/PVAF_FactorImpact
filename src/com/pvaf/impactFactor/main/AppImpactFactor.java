@@ -10,11 +10,13 @@ import com.pvaf.impactFactor.dao.JournalDAO;
 import com.pvaf.impactFactor.entidades.Journal;
 import com.pvaf.impactFactor.entidades.Publication;
 import com.pvaf.impactFactor.io.ReadImpactFactor;
+import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.List;
+import java.util.Scanner;
 import java.util.Set;
 
 /**
@@ -134,38 +136,102 @@ public class AppImpactFactor {
         }
     }
     
+    public static void deleteFile(String path){
+        File file = new File(path);
+        file.delete();
+    }
+    
     public static void main(String[] args) {
         
-        ArrayList<Publication> publications =  AppImpactFactor.lerImpactFactor("ISIout.xml");
-        AppImpactFactor.splitPublications(publications);
-        
-        publications.clear();
-        
-        List<Journal> listJournalExi = AppImpactFactor.createListJournal(issnsExi);
-        
-        AppImpactFactor.addAttributesImpactFactor(listJournalExi, addPublicationExi);
-        
-        issnsExi.clear();
-        addPublicationExi.clear();
-        
-        List<Journal> listJournalIne = AppImpactFactor.createListJournal(issnsIne);
-        
-        AppImpactFactor.addAttributesImpactFactor(listJournalIne, addPublicationIne);
-        
-        issnsIne.clear();
-        addPublicationIne.clear();
+        System.out.println("Opções");
+        System.out.println("1 journal Impact Factor");
+        System.out.println("2 registro de erros");
+
+        Scanner ler = new Scanner(System.in);
+        int op = ler.nextInt();
+
+        switch (op) {
+
+            case 1:
                 
-        for(Journal j: listJournalExi){
-            JournalDAO.update(j);
+                AppImpactFactor.deleteFile("registroErro.xml");
+        
+                //ArrayList<Publication> publications =  AppImpactFactor.lerImpactFactor("ISIout.xml");
+                ArrayList<Publication> publications =  AppImpactFactor.lerImpactFactor("ISI1out.xml");
+        
+                AppImpactFactor.splitPublications(publications);
+        
+                publications.clear();
+        
+                List<Journal> listJournalExi = AppImpactFactor.createListJournal(issnsExi);
+        
+                AppImpactFactor.addAttributesImpactFactor(listJournalExi, addPublicationExi);
+        
+                issnsExi.clear();
+                addPublicationExi.clear();
+        
+                List<Journal> listJournalIne = AppImpactFactor.createListJournal(issnsIne);
+        
+                AppImpactFactor.addAttributesImpactFactor(listJournalIne, addPublicationIne);
+        
+                issnsIne.clear();
+                addPublicationIne.clear();
+                
+                for(Journal j: listJournalExi){
+                    JournalDAO.update(j);
+                }
+        
+                listJournalExi.clear();
+        
+                for(Journal j: listJournalIne){
+                    JournalDAO.insert(j);
+                }
+        
+                listJournalIne.clear();
+                
+                break;
+            
+            case 2:
+                
+                publications = AppImpactFactor.lerImpactFactor("registroErro.xml");
+
+                AppImpactFactor.splitPublications(publications);
+
+                publications.clear();
+
+                listJournalExi = AppImpactFactor.createListJournal(issnsExi);
+
+                AppImpactFactor.addAttributesImpactFactor(listJournalExi, addPublicationExi);
+
+                issnsExi.clear();
+                addPublicationExi.clear();
+
+                listJournalIne = AppImpactFactor.createListJournal(issnsIne);
+
+                AppImpactFactor.addAttributesImpactFactor(listJournalIne, addPublicationIne);
+
+                issnsIne.clear();
+                addPublicationIne.clear();
+
+                for (Journal j : listJournalExi) {
+                    JournalDAO.update(j);
+                }
+
+                listJournalExi.clear();
+
+                for (Journal j : listJournalIne) {
+                    JournalDAO.insert(j);
+                }
+
+                listJournalIne.clear();
+                
+                AppImpactFactor.deleteFile("registroErro.xml");
+                
+                break;
+            
+            default:;
         }
-        
-        listJournalExi.clear();
-        
-        for(Journal j: listJournalIne){
-            JournalDAO.insert(j);
-        }
-        
-        listJournalIne.clear();
+                
     }    
 }
 
