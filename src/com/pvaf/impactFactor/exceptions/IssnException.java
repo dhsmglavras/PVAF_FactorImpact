@@ -180,9 +180,12 @@ public class IssnException extends Exception{
         return publications;
     }
     
-    public boolean fileExist(){
+    public boolean fileExist(String arqProcess){
         File file = new File("registroErro.xml");
-        return file.exists();
+        if(this.numero==0){
+            return false;
+        }
+        return true;        
     }
         
     @Override

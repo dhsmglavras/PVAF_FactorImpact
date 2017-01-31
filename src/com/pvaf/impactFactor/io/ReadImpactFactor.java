@@ -156,17 +156,11 @@ public class ReadImpactFactor {
                     if(validateIssn(issn)){
                         adicione = true;
                     }else{
-                        /*try {
-                            throw new IssnException(pub,this.name,this.year);
-                        }catch (IssnException e) {
-                            System.err.println(e.getMessage());
-                            e.log();
-                        }*/
                         
                         try {
                             throw new IssnException(pub,this.name,this.year);
                         } catch (IssnException e) {
-                            if (!e.fileExist()) {
+                            if (!e.fileExist(this.name)) {
                                 System.err.println(e.getMessage());
                             }
                             e.log();
