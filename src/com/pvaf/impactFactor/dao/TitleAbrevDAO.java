@@ -6,6 +6,7 @@
 package com.pvaf.impactFactor.dao;
 
 import com.pvaf.impactFactor.entidades.TitleAbrev;
+import com.pvaf.impactFactor.exceptions.ErrorException;
 import com.pvaf.impactFactor.service.DBLocator;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -13,6 +14,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
+import org.apache.log4j.Logger;
 
 /**
  *
@@ -20,7 +22,9 @@ import java.util.List;
  */
 public class TitleAbrevDAO {
     
-    public static List<TitleAbrev> getTitlesAbrev(int idPubVenue){
+    private final static Logger log = Logger.getLogger(TitleAbrevDAO.class);  
+    
+    public static List<TitleAbrev> getTitlesAbrev(int idPubVenue) throws ErrorException{
         List<TitleAbrev> listT = new ArrayList<>();
         int i=1;
         
@@ -28,21 +32,22 @@ public class TitleAbrevDAO {
             PreparedStatement ps = conn.prepareStatement("SELECT * FROM title_abrev WHERE id_pub_venue = ?")){
             ps.setInt(i++,idPubVenue);
             
-            try (ResultSet rs = ps.executeQuery()) {
-                TitleAbrev titleAbrev;
-                while(rs.next()){
-                    titleAbrev = new TitleAbrev(rs.getInt("id_pub_venue"),rs.getString("title_abrev"));
-                    listT.add(titleAbrev);
-                }
+            ResultSet rs = ps.executeQuery();
+            TitleAbrev titleAbrev;
+            while(rs.next()){
+                titleAbrev = new TitleAbrev(rs.getInt("id_pub_venue"),rs.getString("title_abrev"));
+                listT.add(titleAbrev);
             }
+            rs.close();
             
 	}catch(SQLException e){
-            System.err.println("Ocorreu uma exceção de SQL. Causa: " + e.getMessage());
+            log.error("Ocorreu uma exceção de SQL.", e.fillInStackTrace());
+            throw new ErrorException("Ocorreu um Erro Interno");
 	}
 	return listT;
     }
     
-    public static Integer checkIdPubVenue(Integer idPubVenue, String journalTitleAbrev){
+    public static Integer checkIdPubVenue(Integer idPubVenue, String journalTitleAbrev) throws ErrorException{
         
         int idPubVenueAux = 0;
         try(Connection conn = DBLocator.getConnection()){ 
@@ -60,9 +65,10 @@ public class TitleAbrevDAO {
             titleAbrev.close();
             ps.close();
             
-        }catch(SQLException e){
-            System.err.println("Ocorreu uma exceção de SQL. Causa: " + e.getMessage());
-	}
+        } catch (SQLException e) {
+            log.error("Ocorreu uma exceção de SQL.", e.fillInStackTrace());
+            throw new ErrorException("Ocorreu um Erro Interno");
+        }
         
         return idPubVenueAux;
     }

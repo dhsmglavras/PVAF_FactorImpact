@@ -10,20 +10,24 @@ package com.pvaf.impactFactor.service;
  * @author marte
  */
 
+import com.pvaf.impactFactor.exceptions.ErrorException;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
+import org.apache.log4j.Logger;
 
 public class Login {
-	
+    
+    private final static Logger log = Logger.getLogger(Login.class);
+    
     private String user;
 
     private String password;
 	
     private String url;
 		
-    public Login(){
+    public Login() throws ErrorException{
         try{
             Properties props = new Properties();
             FileInputStream file = new FileInputStream("./properties/login.properties");
@@ -34,10 +38,12 @@ public class Login {
             this.url = props.getProperty("url").toString().trim();
 			
             file.close();
-        }catch(FileNotFoundException e){
-            System.err.println();
-        }catch(IOException e){
-            System.err.println();
+        } catch (FileNotFoundException e) {
+            log.error("Arq. nao existe.", e.fillInStackTrace());
+            throw new ErrorException("Ocorreu um Erro Interno");
+        } catch (IOException e) {
+            log.error("Erro de E/S.", e.fillInStackTrace());
+            throw new ErrorException("Ocorreu um Erro Interno");
         }
     }
 	

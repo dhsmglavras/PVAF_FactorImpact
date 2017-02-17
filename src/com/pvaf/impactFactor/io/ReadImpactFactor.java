@@ -6,12 +6,12 @@
 package com.pvaf.impactFactor.io;
 
 import com.pvaf.impactFactor.entidades.Publication;
+import com.pvaf.impactFactor.exceptions.ErrorException;
 import com.pvaf.impactFactor.exceptions.IssnException;
 import com.pvaf.impactFactor.util.Files;
 import com.pvaf.impactFactor.util.Strings;
-import java.io.FileNotFoundException;
-import java.io.IOException;
 import java.util.ArrayList;
+import org.apache.log4j.Logger;
 
 /**
  *
@@ -23,7 +23,9 @@ public class ReadImpactFactor {
     private String year;
     private final String path;
     private final ArrayList<Publication> publications;
-        
+    
+    private final static Logger log = Logger.getLogger(ReadImpactFactor.class);
+    
     public ReadImpactFactor(String path) {
         this.name = "";
         this.year = "";
@@ -60,14 +62,17 @@ public class ReadImpactFactor {
         return false;
     }
     
-    public void readImpactFactor( ) throws FileNotFoundException, IOException {
+    public void readImpactFactor( ) throws ErrorException  {
         
         String cod = Files.getContentFile(this.path);
         String[] sp = cod.split("\n");
         this.name = sp[1].replaceFirst("   <from>", "").replaceFirst("</from>", "");
         this.year = sp[2].replaceFirst("   <year>", "").replaceFirst("</year>", "");
         
-        //System.out.println(this.year);
+        if(this.name.matches("\\+d") || this.name==null || (!this.year.matches("\\d+"))){
+            throw new ErrorException("\nO arquivo " + this.path + " \nnão está no formato do parse PublicationVenue");            
+        }
+        
         for (int i = 3; i < sp.length - 1; ++i) {
             if (sp[i].equals("   <pub-venue>")) {
                 Publication pub = new Publication();
@@ -77,9 +82,9 @@ public class ReadImpactFactor {
                 pub.setYear(Long.parseLong(year));
                 
                 while (!sp[i].equals("   </pub-venue>")) {
-
+                    
                     if (anti == i ) {
-                        throw new IllegalArgumentException("\nO arquivo " + this.path + " \nnão está no formato do parse PUblicationVenue\nErro linha: " + (i + 1) + "\nvalor: " + sp[i]);
+                        throw new ErrorException("\nO arquivo " + this.path + " \nnão está no formato do parse PUblicationVenue\nErro linha: " + (i + 1) + "\nvalor: " + sp[i]);
                     }
                     anti = i;
                     
@@ -92,7 +97,7 @@ public class ReadImpactFactor {
                         i++;
                         continue;
                     }
-                                        
+                    
                     if (sp[i].startsWith("      <issn>")) {
                         pub.addIssn(Strings.getPattern(sp[i], ">[^<]+<").replaceAll("[<>\n]", ""));
                         i++;
@@ -104,14 +109,14 @@ public class ReadImpactFactor {
                         i++;
                         continue;
                     }
-                
+                    
                     if (sp[i].startsWith("      <title-abrev>")) {
                         pub.addTitleAbrev(Strings.getPattern(sp[i], ">[^<]+<").replaceAll("[<>\n]", ""));
                         i++;
                         continue;
                     }
                     
-                                    
+                    
                     if (sp[i].startsWith("      <publisher>")) {
                         pub.addPublisher(Strings.getPattern(sp[i], ">[^<]+<").replaceAll("[<>\n]", ""));
                         i++;
@@ -143,7 +148,7 @@ public class ReadImpactFactor {
                         i++;
                         continue;
                     }
-                
+                    
                     if (sp[i].startsWith("      <impact-factor-5-years>")) {
                         pub.setImpactFactor5Years(Double.parseDouble(Strings.getPattern(sp[i], ">[^<]+<").replaceAll("[<>\n]", "")));
                         i++;

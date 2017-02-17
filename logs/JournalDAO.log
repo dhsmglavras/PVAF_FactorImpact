@@ -1,0 +1,4 @@
+[17/02/17 16:56:46:769] Ocorreu uma exceção de SQL.
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'is = '1839-2571'' at line 1
+	at com.pvaf.impactFactor.dao.JournalDAO.update(JournalDAO.java:259)
+	at com.pvaf.impactFactor.main.AppImpactFactor.main(AppImpactFactor.java:185)

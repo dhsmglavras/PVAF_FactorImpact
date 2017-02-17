@@ -6,6 +6,7 @@
 package com.pvaf.impactFactor.dao;
 
 import com.pvaf.impactFactor.entidades.Journal;
+import com.pvaf.impactFactor.exceptions.ErrorException;
 import com.pvaf.impactFactor.service.DBLocator;
 import java.io.UnsupportedEncodingException;
 import java.math.BigDecimal;
@@ -13,8 +14,8 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+import org.apache.log4j.Logger;
+
 
 /**
  *
@@ -22,9 +23,11 @@ import java.util.logging.Logger;
  */
 public class JournalDAO {
     
+    private final static Logger log = Logger.getLogger(JournalDAO.class);    
+    
     private static int cont =1;
     
-    public static void insert(Journal journal){
+    public static void insert(Journal journal) throws ErrorException{
         Connection conn = null;
         try{
             int i=1;
@@ -139,30 +142,33 @@ public class JournalDAO {
             
             conn.commit();
         }catch(SQLException e){
-            System.err.println( "Ocorreu uma exceção de SQL. Causa: " + e.getMessage() );
-            if(conn !=null){
-		try{
+            log.error("Ocorreu uma exceção de SQL.", e.fillInStackTrace());
+
+            if (conn != null) {
+                try {
                     conn.rollback();
-		}catch(SQLException e1){
-                    System.err.println( "Exceção ao realizar rollback. Causa: " + e1.getMessage() );
-		}
+                } catch (SQLException e1) {
+                    log.error("Exceção ao realizar rollback.", e1.fillInStackTrace());
+                    throw new ErrorException("Ocorreu um Erro Interno");
+                }
             }
-        } catch (UnsupportedEncodingException ex) {
-            Logger.getLogger(JournalDAO.class.getName()).log(Level.SEVERE, null, ex);
-            ex.getMessage();
+            throw new ErrorException("Ocorreu um Erro Interno");
+        } catch (UnsupportedEncodingException u) {
+            log.error("Ocorreu uma exceção de codificação de caracteres.", u.fillInStackTrace());
+            throw new ErrorException("Ocorreu um Erro Interno");
         }finally{
-            if(conn !=null){
-		try{
+            if (conn != null) {
+                try {
                     conn.close();
-		}catch(SQLException e){
-                    System.err.println( "Exceção ao fechar a conexão. Causa: " + e.getMessage() );
-                    //e.printStackTrace();
-		}
+                } catch (SQLException e) {
+                    log.error("Exceção ao fechar a conexão.", e.fillInStackTrace());
+                    throw new ErrorException("Ocorreu um Erro Interno");
+                }
             }
 	}
     }
     
-    public static void update(Journal journal){
+    public static void update(Journal journal) throws ErrorException{
         Connection conn = null;
         
         try{
@@ -249,27 +255,30 @@ public class JournalDAO {
             }
             
             conn.commit();
-        }catch(SQLException e){
-            System.err.println( "Ocorreu uma exceção de SQL. Causa: " + e.getMessage());            
-            if(conn !=null){
-		try{
+        } catch (SQLException e) {
+            log.error("Ocorreu uma exceção de SQL.", e.fillInStackTrace());
+
+            if (conn != null) {
+                try {
                     conn.rollback();
-		}catch(SQLException e1){
-                    System.err.println( "Exceção ao realizar rollback. Causa: " + e1.getMessage() );
-		}
+                } catch (SQLException e1) {
+                    log.error("Exceção ao realizar rollback.", e1.fillInStackTrace());
+                    throw new ErrorException("Ocorreu um Erro Interno");
+                }
             }
-        } catch (UnsupportedEncodingException ex) {
-            Logger.getLogger(JournalDAO.class.getName()).log(Level.SEVERE, null, ex);
-            ex.getMessage();
-        }finally{
-            if(conn !=null){
-		try{
+            throw new ErrorException("Ocorreu um Erro Interno");
+        } catch (UnsupportedEncodingException u) {
+            log.error("Ocorreu uma exceção de codificação de caracteres.", u.fillInStackTrace());
+            throw new ErrorException("Ocorreu um Erro Interno");
+        } finally {
+            if (conn != null) {
+                try {
                     conn.close();
-		}catch(SQLException e){
-                    System.err.println( "Exceção ao fechar a conexão. Causa: " + e.getMessage() );
-                    //e.printStackTrace();
-		}
+                } catch (SQLException e) {
+                    log.error("Exceção ao fechar a conexão.", e.fillInStackTrace());
+                    throw new ErrorException("Ocorreu um Erro Interno");
+                }
             }
-	}
+        }
     }
 }

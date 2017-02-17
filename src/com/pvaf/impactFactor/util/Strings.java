@@ -4,6 +4,7 @@
  */
 package com.pvaf.impactFactor.util;
 
+import com.pvaf.impactFactor.exceptions.ErrorException;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -15,12 +16,15 @@ import java.util.Map;
 import java.util.TreeMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import org.apache.log4j.Logger;
 
 /**
  *
  * @author maneul
  */
 public class Strings implements Serializable {
+    
+    private final static Logger log = Logger.getLogger(Strings.class);
 
     /**
      *
@@ -120,7 +124,7 @@ public class Strings implements Serializable {
      * No vetor string replaceAll a string na posicao par será substituida pela string na
      * posição par + 1.
      */
-    public static String getValue(String value, String[] regex, String[] replaceAll) {
+    public static String getValue(String value, String[] regex, String[] replaceAll) throws ErrorException {
         try {
             for (int i = 0; i < regex.length; ++i) {
                 value = getPattern(value, regex[i]);
@@ -130,7 +134,8 @@ public class Strings implements Serializable {
                 value = value.replaceAll(replaceAll[i], replaceAll[i + 1]);
             }
         } catch (Exception e) {
-//            System.out.println(e);
+            log.error("Erro de E/S.", e.fillInStackTrace());
+            throw new ErrorException("Ocorreu um Erro Interno");
         }
 
         return value;

@@ -7,6 +7,7 @@ package com.pvaf.impactFactor.dao;
 
 import com.pvaf.impactFactor.service.DBLocator;
 import com.pvaf.impactFactor.entidades.Issn;
+import com.pvaf.impactFactor.exceptions.ErrorException;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -15,13 +16,17 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
+import org.apache.log4j.Logger;
 
 /**
  *
  * @author marte
  */
 public class IssnDAO {
-    public static HashSet<String> issnDB() {
+    
+    private final static Logger log = Logger.getLogger(IssnDAO.class);
+    
+    public static HashSet<String> issnDB() throws ErrorException {
         HashSet<String> issns = new HashSet<>();
         Connection conn = null;
         
@@ -43,36 +48,33 @@ public class IssnDAO {
                 String pub_type = publicationvenue.getString("pub_type");
                 
                 if (pub_type.equals("J") || pub_type.equals("M")){
-                    try{
-                        statement = conn.createStatement();
-                        issn = statement.executeQuery("select * from issn where id_pub_venue = " + idPubVenue + " order by issn");
-                        
-                        while(issn.next()){
-                            issns.add(issn.getString("issn"));
-                        }
-                        
-                        statement.close();
-                    } catch(SQLException sePublication){
-                        System.out.println( "Excessão ao fechar a conexão. Causa: " + sePublication.getMessage());
+                    
+                    statement = conn.createStatement();
+                    issn = statement.executeQuery("select * from issn where id_pub_venue = " + idPubVenue + " order by issn");
+                    while (issn.next()) {
+                        issns.add(issn.getString("issn"));
                     }
+                    statement.close();                   
                 }
                 
             }while(publicationvenue.next());
         }catch(SQLException e){
-            System.out.println( "Ocorreu uma excessão de SQL. Causa: " + e.getMessage() );
+            log.error("Ocorreu uma exceção de SQL.", e.fillInStackTrace());
+            throw new ErrorException("Ocorreu um Erro Interno");
 	}finally{
             if(conn !=null){
 		try{
                     conn.close();
 		}catch(SQLException e){
-                    System.out.println( "Excessão ao fechar a conexão. Causa: " + e.getMessage() );
+                    log.error("Exceção ao fechar a conexão.", e.fillInStackTrace());
+                    throw new ErrorException("Ocorreu um Erro Interno");
 		}
             }
 	}
         return issns;
     }
     
-    public static List<Issn> getAllIssn() {
+    public static List<Issn> getAllIssn() throws ErrorException {
         List<Issn> issns = new ArrayList<>();
         Connection conn = null;
         
@@ -90,53 +92,48 @@ public class IssnDAO {
                 String pub_type = publicationvenue.getString("pub_type");
                 
                 if (pub_type.equals("J")|| pub_type.equals("M")){
-                    try{
-                        statement = conn.createStatement();
-                        issnRs = statement.executeQuery("select * from issn where id_pub_venue = " + idPubVenue + " order by issn");
-                        
-                        Issn issn;
-                        while(issnRs.next()){
-                            issn = new Issn(issnRs.getInt("idPubvebue"),issnRs.getString("issn"),issnRs.getString("print/online"));
-                            issns.add(issn);
-                        }
-                    } catch(SQLException sePublication){
-                        System.out.println( "Excessão ao fechar a conexão. Causa: " + sePublication.getMessage() );
-                        sePublication.printStackTrace();
+                    statement = conn.createStatement();
+                    issnRs = statement.executeQuery("select * from issn where id_pub_venue = " + idPubVenue + " order by issn");
+
+                    Issn issn;
+                    while (issnRs.next()) {
+                        issn = new Issn(issnRs.getInt("idPubvebue"), issnRs.getString("issn"), issnRs.getString("print/online"));
+                        issns.add(issn);
                     }
                 }
                 
             }
         }catch(SQLException e){
-            System.out.println( "Ocorreu uma excessão de SQL. Causa: " + e.getMessage() );            
+            log.error("Ocorreu uma exceção de SQL.", e.fillInStackTrace());
+            throw new ErrorException("Ocorreu um Erro Interno");
 	}finally{
             if(conn !=null){
 		try{
                     conn.close();
 		}catch(SQLException e){
-                    System.out.println( "Excessão ao fechar a conexão. Causa: " + e.getMessage() );
-                    e.printStackTrace();
+                    log.error("Exceção ao fechar a conexão.", e.fillInStackTrace());
+                    throw new ErrorException("Ocorreu um Erro Interno");
 		}
             }
 	}
         return issns;
     }
     
-    public static boolean getIssn(String issn){        
+    public static boolean getIssn(String issn) throws ErrorException{        
         int i=1;
         
         try(Connection conn = DBLocator.getConnection(); 
             PreparedStatement ps = conn.prepareStatement("SELECT * FROM issn WHERE issn = ?")){
             ps.setString(i++,issn);
             
-            try (ResultSet rs = ps.executeQuery()) {
-                
-                if(rs.first()){
-                    return true;
-                }  
-            }
-	}catch(SQLException e){
-            System.err.println("Ocorreu uma excessão de SQL. Causa: " + e.getMessage() );
+            ResultSet rs = ps.executeQuery();
+            if(rs.first()){
+                return true;
+            }  
             
+	}catch(SQLException e){
+            log.error("Ocorreu uma exceção de SQL.", e.fillInStackTrace());
+            throw new ErrorException("Ocorreu um Erro Interno");
 	}
         return false;
     }

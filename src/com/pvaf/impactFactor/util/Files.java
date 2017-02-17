@@ -6,6 +6,7 @@ package com.pvaf.impactFactor.util;
 
 //comparar removendo as stop words
 
+import com.pvaf.impactFactor.exceptions.ErrorException;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -17,6 +18,8 @@ import java.io.ObjectOutputStream;
 import java.io.Serializable;
 import java.util.HashMap;
 import java.util.TreeMap;
+import java.util.logging.Level;
+import org.apache.log4j.Logger;
 
 //comparar tambem as siglas
 
@@ -25,6 +28,8 @@ import java.util.TreeMap;
  * @author maneul
  */
 public class Files implements Serializable {
+    
+    private final static Logger log = Logger.getLogger(Files.class);
 
         /**
          * Get the content of a file
@@ -33,13 +38,31 @@ public class Files implements Serializable {
          * @throws FileNotFoundException - if the file was not found
          * @throws IOException - if an I/O error occurs
          */
-   public static String getContentFile(String filePath) throws FileNotFoundException, IOException{
+   public static String getContentFile(String filePath) throws ErrorException {
 
+       FileInputStream fis = null;
+        try {
             File fi = new File(filePath);
-            FileInputStream fis = new FileInputStream(fi);
+            fis = new FileInputStream(fi);
             byte [] b = new byte[(int)fi.length()];
             fis.read(b);
             return new String(b);
+        } catch (FileNotFoundException f) {
+            log.error("Arq. nao existe.", f.fillInStackTrace());
+            throw new ErrorException("Ocorreu um Erro Interno");
+        } catch (IOException e) {
+            log.error("Erro de E/S.", e.fillInStackTrace());
+            throw new ErrorException("Ocorreu um Erro Interno");
+        } finally {
+            try {
+                if(fis!=null){
+                    fis.close();
+                }
+            } catch (IOException e) {
+                log.error("Erro de E/S.", e.fillInStackTrace());
+                throw new ErrorException("Ocorreu um Erro Interno");
+            }
+        }
 
     }
         /**
@@ -237,7 +260,7 @@ public class Files implements Serializable {
          * @throws IOException
          */
 
-        public static void removeEqualLines(String file1, String file2, String file3) throws FileNotFoundException, IOException{
+        public static void removeEqualLines(String file1, String file2, String file3) throws ErrorException {
 
                 String content1 = Files.getContentFile(file1);
                 String content2 = Files.getContentFile(file2);
@@ -250,7 +273,7 @@ public class Files implements Serializable {
 
         }
 
-        public static void printNumberWordsFile(String file) throws FileNotFoundException, IOException{
+        public static void printNumberWordsFile(String file) throws ErrorException {
                 StringBuilder sb = new StringBuilder();
                 for(String s: Files.getFilesPathInFolder("/home/maneul/Dropbox/NetBeansProjects/LuceneDemo/XMLs/cfc-xml")){
                         sb.append(Files.getContentFile(s).replaceAll("<[^>]+>", " ").replaceAll("\\p{Punct}"," "));
