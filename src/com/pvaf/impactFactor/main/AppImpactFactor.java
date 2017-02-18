@@ -10,6 +10,7 @@ import com.pvaf.impactFactor.dao.JournalDAO;
 import com.pvaf.impactFactor.entidades.Journal;
 import com.pvaf.impactFactor.entidades.Publication;
 import com.pvaf.impactFactor.exceptions.ErrorException;
+import com.pvaf.impactFactor.exceptions.IssnException;
 import com.pvaf.impactFactor.io.ReadImpactFactor;
 import java.io.File;
 import java.io.IOException;
@@ -144,6 +145,11 @@ public class AppImpactFactor {
         file.delete();
     }
     
+    public static boolean fileExists(String path){
+        File file = new File(path);
+        return file.exists();
+    }
+    
     public static void main(String[] args) {
         
         try {
@@ -160,8 +166,8 @@ public class AppImpactFactor {
                     
                     AppImpactFactor.deleteFile("registroErro.xml");
                     
-                    ArrayList<Publication> publications =  AppImpactFactor.lerImpactFactor("ISIout.xml");
-                    //ArrayList<Publication> publications =  AppImpactFactor.lerImpactFactor("ISI1out.xml");
+                    //ArrayList<Publication> publications =  AppImpactFactor.lerImpactFactor("ISIout.xml");
+                    ArrayList<Publication> publications =  AppImpactFactor.lerImpactFactor("ISI1out.xml");
                     
                     AppImpactFactor.splitPublications(publications);
                     
@@ -229,12 +235,19 @@ public class AppImpactFactor {
                     
                     listJournalIne.clear();
                     
-                    AppImpactFactor.deleteFile("registroErro.xml");
-                    
                     break;
                     
                 default:;
             }
+            
+            if (AppImpactFactor.fileExists("registroErro.xml")) {
+                try {
+                    throw new IssnException();
+                } catch (IssnException e) {
+                    System.err.println(e.getMessage());
+                }
+            }
+            
         } catch (ErrorException ex) {
             System.err.println(ex.getMessage());
         }

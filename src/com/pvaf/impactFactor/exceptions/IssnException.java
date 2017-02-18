@@ -35,6 +35,11 @@ public class IssnException extends Exception{
     private PrintWriter writer;
     private ArrayList<Publication> publications;
     
+    public IssnException(){
+        this.numero =0;
+        this.year = "";
+    }
+    
     public IssnException(Publication pub, String nome,String year){
         
         this.numero = autoIncremento++;
@@ -175,14 +180,6 @@ public class IssnException extends Exception{
     
     public ArrayList<Publication> getPublications() {
         return publications;
-    }
-    
-    public boolean fileExist(){
-        File file = new File("registroErro.xml");
-        if(this.numero==0){
-            return false;
-        }
-        return true;        
     }
         
     @Override

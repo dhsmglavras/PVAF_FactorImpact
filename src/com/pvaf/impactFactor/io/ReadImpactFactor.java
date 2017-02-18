@@ -165,9 +165,6 @@ public class ReadImpactFactor {
                         try {
                             throw new IssnException(pub,this.name,this.year);
                         } catch (IssnException e) {
-                            if (!e.fileExist()) {
-                                System.err.println(e.getMessage());
-                            }
                             e.log();
                         }
                         
