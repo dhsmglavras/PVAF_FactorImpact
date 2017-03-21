@@ -94,7 +94,7 @@ public class IssnException extends Exception{
         String[] sp = cod.split("\n");
         this.name = sp[1].replaceFirst("   <from>", "").replaceFirst("</from>", "");
         this.contador = 0;
-        for (int i = 2; i < sp.length - 1; ++i) {
+        for (int i = 2; (i < sp.length - 1) && (this.numero!=0); ++i) {
             if (sp[i].equals("   <pub-venue>")) {
                 Publication pub = new Publication();
                 int anti = i;

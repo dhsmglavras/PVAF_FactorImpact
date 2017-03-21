@@ -13,15 +13,12 @@ import com.pvaf.impactFactor.exceptions.ErrorException;
 import com.pvaf.impactFactor.exceptions.IssnException;
 import com.pvaf.impactFactor.io.ReadImpactFactor;
 import java.io.File;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Scanner;
 import java.util.Set;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
 /**
@@ -80,7 +77,6 @@ public class AppImpactFactor {
             listJournal.add(j);
         }
         
-        System.out.println(issns.size());
         return listJournal;
     }
     
@@ -151,6 +147,8 @@ public class AppImpactFactor {
     }
     
     public static void main(String[] args) {
+        long init =0; long end=0; long diff=0;
+        
         
         try {
             System.out.println("Opções");
@@ -163,11 +161,12 @@ public class AppImpactFactor {
             switch (op) {
                 
                 case 1:
+                    init = System.currentTimeMillis();
                     
                     AppImpactFactor.deleteFile("registroErro.xml");
                     
-                    //ArrayList<Publication> publications =  AppImpactFactor.lerImpactFactor("ISIout.xml");
-                    ArrayList<Publication> publications =  AppImpactFactor.lerImpactFactor("ISI1out.xml");
+                    ArrayList<Publication> publications =  AppImpactFactor.lerImpactFactor("ISIout.xml");
+                    //ArrayList<Publication> publications =  AppImpactFactor.lerImpactFactor("ISI1out.xml");
                     
                     AppImpactFactor.splitPublications(publications);
                     
@@ -187,11 +186,15 @@ public class AppImpactFactor {
                     issnsIne.clear();
                     addPublicationIne.clear();
                     
+                    System.out.println(listJournalExi.size());
+                    
                     for(Journal j: listJournalExi){
                         JournalDAO.update(j);
                     }
                     
                     listJournalExi.clear();
+                    
+                    System.out.println(listJournalIne.size());
                     
                     for(Journal j: listJournalIne){
                         JournalDAO.insert(j);
@@ -203,6 +206,8 @@ public class AppImpactFactor {
                     
                 case 2:
                     
+                    init = System.currentTimeMillis();
+                                                            
                     publications = AppImpactFactor.lerImpactFactor("registroErro.xml");
                     
                     AppImpactFactor.splitPublications(publications);
@@ -247,11 +252,14 @@ public class AppImpactFactor {
                     System.err.println(e.getMessage());
                 }
             }
-            
+                                    
+            end = System.currentTimeMillis();
+                        
         } catch (ErrorException ex) {
             System.err.println(ex.getMessage());
         }
-                
+        diff = end - init; 
+        System.out.println("Demorou " + (double)(diff / 1000) + " segundos");                 
     }    
 }
 

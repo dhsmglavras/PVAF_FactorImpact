@@ -8,6 +8,7 @@ package com.pvaf.impactFactor.io;
 import com.pvaf.impactFactor.entidades.Publication;
 import com.pvaf.impactFactor.exceptions.ErrorException;
 import com.pvaf.impactFactor.exceptions.IssnException;
+import com.pvaf.impactFactor.main.AppImpactFactor;
 import com.pvaf.impactFactor.util.Files;
 import com.pvaf.impactFactor.util.Strings;
 import java.util.ArrayList;
@@ -72,6 +73,8 @@ public class ReadImpactFactor {
         if(this.name.matches("\\+d") || this.name==null || (!this.year.matches("\\d+"))){
             throw new ErrorException("\nO arquivo " + this.path + " \nnão está no formato do parse PublicationVenue");            
         }
+        
+        int test = 0;
         
         for (int i = 3; i < sp.length - 1; ++i) {
             if (sp[i].equals("   <pub-venue>")) {
@@ -157,15 +160,18 @@ public class ReadImpactFactor {
                 }
                 
                 boolean adicione = false;
+                
                 for(String issn: pub.getIssn()){
                     if(validateIssn(issn)){
                         adicione = true;
                     }else{
-                        
+                                
                         try {
                             throw new IssnException(pub,this.name,this.year);
                         } catch (IssnException e) {
                             e.log();
+                        }finally{
+                            test++;
                         }
                         
                         adicione = false;
@@ -176,6 +182,10 @@ public class ReadImpactFactor {
                     this.publications.add(pub);
                 }
             }
+        }
+        
+        if(test==0){
+            AppImpactFactor.deleteFile("registroErro.xml");
         }
     }
 }
